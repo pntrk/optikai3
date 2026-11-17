@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Workbook sourceFile="ilkmat2.xlsx" sheetCount="4">
+  <Worksheet name="5.sınıf" index="1" rowCount="17" colCount="13">
+    <Metadata>
+      <Info row="1">5.SINIF MATEMATİK DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite/Tema"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema">GEOMETRİK ŞEKİLLER</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Temel Geometrik Çizimler ve İnşalar</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.5.3.1. Temel geometrik çizimler için matematiksel araç ve teknolojiden yararlanabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema" mergedFromAbove="true">GEOMETRİK ŞEKİLLER</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Temel Geometrik Çizimler ve İnşalar</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.5.3.2. Temel geometrik çizimlere dayalı deneyimlerini yansıtabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema" mergedFromAbove="true">GEOMETRİK ŞEKİLLER</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Açı Ölçme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.5.3.3. Açıları ölçmek için matematiksel araç ve teknolojiden yararlanabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema" mergedFromAbove="true">GEOMETRİK ŞEKİLLER</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Açı Ölçme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.5.3.4. Düzlemde iki veya üç doğrunun birbirine göre durumuna bağlı olarak oluşabilecek açılara dair çıkarım yapabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema" mergedFromAbove="true">GEOMETRİK ŞEKİLLER</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Çokgenler ve Çember</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.5.3.5. Çokgenleri düzlemde ardışık olarak kesişen doğruların oluşturduğu kapalı şekiller olarak yorumlayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema" mergedFromAbove="true">GEOMETRİK ŞEKİLLER</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Çokgenler ve Çember</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.5.3.6. Çokgenlerin özellikleri ile ilgili edindiği deneyimleri yansıtabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema" mergedFromAbove="true">GEOMETRİK ŞEKİLLER</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Çokgenler ve Çember</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.5.3.7. Matematiksel araç ve teknoloji yardımıyla düzlemde iki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilen üçgenlerin kenar özelliklerine yönelik çıkarım yapabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema">SAYILAR VE NİCELİKLER (1)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Basamak Değerlerini Çözümleme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.5.1.1. Altı basamaklı sayıları okuma ve yazmayı çok basamaklı sayılara genelleyebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema" mergedFromAbove="true">SAYILAR VE NİCELİKLER (1)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Doğal Sayılarla Dört İşlem İçeren Problem Çözme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.5.1.2. Doğal sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema">GEOMETRİK NİCELİKLER</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Dikdörtgenin Çevre Uzunluğu ve Alanı</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.5.4.1. Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde kenar uzunluklarını yorumlayabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="11" excelRow="17">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema" mergedFromAbove="true">GEOMETRİK NİCELİKLER</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Dikdörtgenin Çevre Uzunluğu ve Alanı</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.5.4.2. Birim karelerden yola çıkarak dikdörtgenin alanını değerlendirebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="6.sınıf" index="2" rowCount="16" colCount="13">
+    <Metadata>
+      <Info row="1">6.SINIF MATEMATİK DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite/Tema"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır."/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır."/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır."/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır."/>
+      <Column index="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır."/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema">SAYILAR VE NİCELİKLER (1)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Bir Doğal Sayının Çarpanları ve Katları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.6.1.1. Karşılaştığı problem durumlarında bir doğal sayının çarpan ve katlarına yönelik muhakeme yapabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema" mergedFromAbove="true">SAYILAR VE NİCELİKLER (1)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Bölünebilme Kriterleri</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.6.1.2. Bir doğal sayının 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünebilme kriterlerine ilişkin çıkarım yapabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema" mergedFromAbove="true">SAYILAR VE NİCELİKLER (1)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Asal Sayılar ve Asal Çarpanlar</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.6.1.3. Bir doğal sayının asal olma durumunu ve asal çarpanlarını çözümleyebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema" mergedFromAbove="true">SAYILAR VE NİCELİKLER (1)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Bir Doğal Sayının Çarpanları ve Katları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.6.1.4. Günlük hayat problemleri ya da matematiksel durumlar üzerinden ortak kat ve ortak böleni yorumlayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema">VERİDEN OLASILIĞA</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Deneysel Olasılık</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.6.6.1. Bir olayın olasılığını gözleme dayalı tahmin edebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema">SAYILAR VE NİCELİKLER (2)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Ondalık Gösterimleri Çözümleme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.6.1.5. Gerçek yaşam durumlarında ondalık gösterimlerin basamak değerlerini kesirlerden yararlanarak yorumlayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema" mergedFromAbove="true">SAYILAR VE NİCELİKLER (2)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Kesir-Bölme İlişkisi</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.6.1.6. Kesir ve bölme işlemi arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema" mergedFromAbove="true">SAYILAR VE NİCELİKLER (2)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Kesirlerle Dört İşlem İçeren Problem Çözme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.6.1.7. Gerçek yaşam durumlarında karşılaşılan kesir, ondalık ve yüzde gösterimleri ile ilgili dört işlem gerektiren problemleri çözebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema" mergedFromAbove="true">SAYILAR VE NİCELİKLER (2)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Uzunluk Ölçme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.6.1.8. Karşılaştığı günlük hayat ya da matematiksel durumlarda standart uzunluk ölçme birimlerini değerlendirebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Ünite/Tema">İSTATİSTİKSEL ARAŞTIRMA SÜRECİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Kategorik ve Nicel (Kesikli) Veri Dağılımları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.6.5.1. Kategorik veya nicel (kesikli) veri ile çalışabilme ve veriye dayalı karar verebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="7.sınıf" index="3" rowCount="18" colCount="12">
+    <Metadata>
+      <Info row="1">7.SINIF MATEMATİK DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite/ Tema"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">SAYILAR VE NİCELİKLER (1)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Tam Sayılar Rasyonel Sayılar ve Farklı Temsilleri</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.7.1.1. Gerçek yaşam ya da matematiksel durumlarda doğal sayı, tam sayı ve rasyonel sayıları yorumlayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">SAYILAR VE NİCELİKLER (1)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Rasyonel Sayılar ve Farklı Temsilleri</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.7.1.2. Gerçek yaşam durumlarında rasyonel sayıların ondalık gösterimlerini yansıtabilmea) Bölme işlemini kullanarak her rasyonel sayının bir ondalık gösterimi olduğunu inceler..</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">SAYILAR VE NİCELİKLER (1)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Rasyonel Sayılar ve Farklı Temsilleri</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.7.1.3. Rasyonel sayıların karşılaştırma ve sıralama ilişkilerini yorumlayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">SAYILAR VE NİCELİKLER (1)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Rasyonel Sayılarla İşlemler ve Problem Çözme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.7.1.4. Rasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">GEOMETRİK NİCELİKLER (1)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Cisimlerin Farklı Yönlerden Görünümleri</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.7.4.1. Eş küplerle oluşturulan yapılar ile görünümleri arasındaki ilişkiyi çözümleyebilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">GEOMETRİK NİCELİKLER (1)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Dikdörtgenler Prizmasının Hacmi ve Yüzey Alanı</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.7.4.2. Dikdörtgenler prizmasının yüzey alanını yorumlayabilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">GEOMETRİK NİCELİKLER (1)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Dikdörtgenler Prizmasının Hacmi ve Yüzey Alanı</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.7.4.3. Dikdörtgenler prizmasının hacmini eş nesneler aracılığıyla yorumlayabilme</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">GEOMETRİK NİCELİKLER (1)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Dikdörtgenler Prizmasının Hacmi ve Yüzey Alanı</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.7.4.4. Dikdörtgenler prizmasının hacim bağıntısını değerlendirebilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">GEOMETRİK NİCELİKLER (1)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Hacim Ölçme Birimleri</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.7.4.5. Hacim ölçme birimleri arasındaki ilişkileri değerlendirebilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">GEOMETRİK NİCELİKLER (1)</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Dikdörtgenler Prizmasının Hacmi ve Yüzey Alanı</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.7.4.6. Günlük hayat durumlarında dikdörtgenler prizmaları ile modellenen cisimlerin yüzey alanı ve hacmine yönelik problem çözebilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="11" excelRow="17">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">İSTATİSTİKSEL ARAŞTIRMA SÜRECİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Kategorik ve Nicel (Sürekli) Veri Dağılımları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.7.6.1. Kategorik veya nicel (sürekli) veri ile çalışabilme ve veriye dayalı karar verebilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="12" excelRow="18">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">İSTATİSTİKSEL ARAŞTIRMA SÜRECİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Kategorik ve Nicel (Sürekli) Veri Dağılımları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">MAT.7.6.2. Başkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumları tartışabilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="8.sınıf" index="4" rowCount="30" colCount="15">
+    <Metadata>
+      <Info row="1">8. SINIF MATEMATİK DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Öğrenme Alanı"/>
+      <Column index="2" excelColumn="B" header="Alt Öğrenme Alanı"/>
+      <Column index="3" excelColumn="C" header="Kazanımlar"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı">SAYILAR VE İŞLEMLER</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı">Çarpanlar ve Katlar</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.1.1.1. Verilen pozitif tam sayıların pozitif tam sayı çarpanlarını bulur, pozitif tam sayıların pozitif tam sayı çarpanlarını üslü ifadelerin çarpımı şeklinde yazar.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">SAYILAR VE İŞLEMLER</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Çarpanlar ve Katlar</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.1.1.2. İki doğal sayının en büyük ortak bölenini (EBOB) ve en küçük ortak katını (EKOK) hesaplar, ilgili problemleri çözer.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">3</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">2</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">SAYILAR VE İŞLEMLER</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Çarpanlar ve Katlar</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.1.1.3. Verilen iki doğal sayının aralarında asal olup olmadığını belirler.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">SAYILAR VE İŞLEMLER</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı">Üslü İfadeler</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.1.2.1. Tam sayıların, tam sayı kuvvetlerini hesaplar.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">SAYILAR VE İŞLEMLER</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Üslü İfadeler</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.1.2.2. Üslü ifadelerle ilgili temel kuralları anlar, birbirine denk ifadeler oluşturur.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">3</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">2</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">SAYILAR VE İŞLEMLER</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Üslü İfadeler</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.1.2.3. Sayıların ondalık gösterimlerini 10’un tam sayı kuvvetlerini kullanarak çözümler.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">SAYILAR VE İŞLEMLER</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Üslü İfadeler</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.1.2.4. Verilen bir sayıyı 10’un farklı tam sayı kuvvetlerini kullanarak ifade eder.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">SAYILAR VE İŞLEMLER</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Üslü İfadeler</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.1.2.5. Çok büyük ve çok küçük sayıları bilimsel gösterimle ifade eder ve karşılaştırır.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">SAYILAR VE İŞLEMLER</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı">Kareköklü İfadeler</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.1.3.1. Tamkare pozitif tam sayılarla bu sayıların karekökleri arasındaki ilişkiyi belirler.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">SAYILAR VE İŞLEMLER</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Kareköklü İfadeler</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.1.3.2. Tam kare olmayan kareköklü bir sayının hangi iki doğal sayı arasında olduğunu belirler.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="11" excelRow="17">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">SAYILAR VE İŞLEMLER</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Kareköklü İfadeler</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.1.3.3. Kareköklü bir ifadeyi a√b şeklinde yazar ve a√b şeklindeki ifadede katsayıyı kök içine alır.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+      </Row>
+      <Row index="12" excelRow="18">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">SAYILAR VE İŞLEMLER</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Kareköklü İfadeler</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.1.3.4. Kareköklü ifadelerde çarpma ve bölme işlemlerini yapar.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="13" excelRow="19">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">SAYILAR VE İŞLEMLER</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Kareköklü İfadeler</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.1.3.5. Kareköklü ifadelerde toplama ve çıkarma işlemlerini yapar.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">2</Cell>
+      </Row>
+      <Row index="14" excelRow="20">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">SAYILAR VE İŞLEMLER</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Kareköklü İfadeler</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.1.3.6. Kareköklü bir ifade ile çarpıldığında, sonucu bir doğal sayı yapan çarpanlara örnek verir.</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="15" excelRow="21">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">SAYILAR VE İŞLEMLER</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Kareköklü İfadeler</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.1.3.7. Ondalık ifadelerin kareköklerini belirler.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="16" excelRow="22">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">SAYILAR VE İŞLEMLER</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Kareköklü İfadeler</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.1.3.8. Gerçek sayıları tanır, rasyonel ve irrasyonel sayılarla ilişkilendirir.</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+      <Row index="17" excelRow="23">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı">VERİ İŞLEME</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı">Veri Analizi</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.4.1.1. En fazla üç veri grubuna ait çizgi ve sütun grafiklerini yorumlar.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="18" excelRow="24">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">VERİ İŞLEME</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Veri Analizi</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.4.1.2. Verileri sütun, daire veya çizgi grafiği ile gösterir ve bu gösterimler arasında uygun olan dönüşümleri yapar.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="19" excelRow="25">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı">OLASILIK</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı">Basit Olayların Olma Olasılığı</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.5.1.1. Bir olaya ait olası durumları belirler.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="20" excelRow="26">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OLASILIK</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Basit Olayların Olma Olasılığı</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.5.1.2. “Daha fazla”, “eşit”, “daha az” olasılıklı olayları ayırt eder, örnek verir.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="21" excelRow="27">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OLASILIK</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Basit Olayların Olma Olasılığı</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.5.1.3. Eşit şansa sahip olan olaylarda her bir çıktının olasılık değerinin eşit olduğunu ve bu değerin 1/n olduğunu açıklar.</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="22" excelRow="28">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OLASILIK</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Basit Olayların Olma Olasılığı</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.5.1.4. Olasılık değerinin 0 ile 1 arasında (0 ve 1 dâhil) olduğunu anlar.</Cell>
+      </Row>
+      <Row index="23" excelRow="29">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OLASILIK</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Basit Olayların Olma Olasılığı</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.5.1.5. Basit bir olayın olma olasılığını hesaplar.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+      </Row>
+      <Row index="24" excelRow="30">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı">CEBİR</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı">Cebirsel İfadeler ve Özdeşlikler</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">M.8.2.1.1. Basit cebirsel ifadeleri anlar ve farklı biçimlerde yazar.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+</Workbook>

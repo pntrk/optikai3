@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Workbook sourceFile="ingilizce_lise2.xlsx" sheetCount="4">
+  <Worksheet name="9. sınıf" index="1" rowCount="30" colCount="12">
+    <Metadata>
+      <Info row="1">9. SINIF İNGİLİZCE DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite/ Tema"/>
+      <Column index="2" excelColumn="B" header="Öğrenme Çıktıları"/>
+      <Column index="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">Revision 1</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.8.1.R3.Students can make sense of and derive meaning from the current content on “school lifeand education with school events and celebrations (sports, music, drama); developing theenvironment; national days and celebrations”.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Revision 1</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.8.2.V1.Students can select and use target vocabulary efficiently, effectively, and accurately, based onthe current content about “classroom life and learning with preferences for different learningactivities; preferences for different learning technologies” after recognising them in contextand developing their conscious and inductive vocabulary learning skills.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Revision 1</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.8.3.G1.Students can select and use target grammatical language items efficiently, effectively, andaccurately, based on the current content about “personal life and well-being with mobile phonesand their impact on health and social life; personal preferences for films and visual arts”, afterrecognising them in context and developing their conscious and inductive grammaring skillsthrough consciousness-raising and discovery.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Revision 1</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.8.4.R3.Students can make sense of and derive meaning from the current content on “family life andhome with relationships, problems and solutions in the family; different houses and livingstyles”.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">Revision 2</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.8.6.V1.Students can select and use target vocabulary efficiently, effectively, and accurately, basedon the current content about “life in the world and culture with different cooking styles andpreferences in the world; different food cultures in the world” after recognising them in contextand developing their conscious and inductive vocabulary learning skills.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Revision 2</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.8.8.R3.Students can make sense of and derive meaning from the current content on “life in theuniverse and future with transport in the future; self-driving cars; ﬂying vehicles in the future”.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">SCHOOL LIFE</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.1.R2. Students can bring information together about the current content on ''school life with students of different countries, nationalities, and languages; capitals of their countries, and tourist attractions; activities in their capitals and countries; national days and celebrations'' through skimming, scanning and detailed reading.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">SCHOOL LIFE</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.1.R3. Students can make sense of and derive meaning from the current content on ''school life with students of different countries, nationalities, and languages; capitals of their countries, and tourist attractions; activities in their capitals and countries; national days and celebrations''.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">SCHOOL LIFE</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.1.V1. Students can select and use target vocabulary efficiently, effectively, and accurately, based on the current content about ''school life with students of different countries, nationalities, and languages; capitals of their countries, and tourist attractions; activities in their capitals and countries; national days and celebrations'' after recognising them in context and developing their conscious and inductive vocabulary learning skills.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">SCHOOL LIFE</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.1.G1. Students can select and use target grammatical language items efficiently, effectively, and accurately, based on the current content about ''school life with students of different countries, nationalities, and languages; capitals oftheir countries, and touristattractions; activities in their capitals and countries; national days and celebrations'', after recognising them in context and developing their conscious and inductive grammaring skills through consciousness-raising and discovery.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="11" excelRow="17">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">SCHOOL LIFE</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.1.W3. Students can construct new written content on ''school life with students of different countries, nationalities, and languages; capitals of their countries, and tourist attractions; activities in their capitals and countries; national days and celebrations'' based on their understanding of the model(s) provided.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="12" excelRow="18">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">SCHOOL LIFE</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.1.W4. Students can practise producing written content based on the current theme ''school life with students of different countries, nationalities, and languages; capitals of their countries, and tourist attractions; activities in their capitals and countries; national days and celebrations''.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="13" excelRow="19">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">CLASSROOM LIFE</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.2.R2. Students can bring information together about the current content on ''classroom life with classmates, friendships, daily and study routines, habits, and activities'' through skimming, scanning and detailed reading.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="14" excelRow="20">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">CLASSROOM LIFE</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.2.R3. Students can make sense of and derive meaning from the current content on ''classroom life with classmates, friendships, daily and study routines, habits, and activities''.</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="15" excelRow="21">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">CLASSROOM LIFE</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.2.V1. Students can select and use target vocabulary efficiently, effectively, and accurately, based on the current content about ''classroom life with classmates, friendships, daily and study routines, habits, and activities'' after recognising them in context and developing their conscious and inductive vocabulary learning skills.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="16" excelRow="22">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">CLASSROOM LIFE</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.2.G1. Students can select and use target grammatical language items efficiently, effectively, and accurately, based on the current content about ''classroom life with classmates, friendships, daily and study routines, habits, and activities'', after recognising them in context and developing their conscious and inductive grammaring skills through consciousness-raising and discovery.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="17" excelRow="23">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">CLASSROOM LIFE</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.2.W3. Students can construct new written content on ''classroom life with classmates, friendships, daily and study routines, habits, and activities'' based on their understanding of the model(s) provided.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+      </Row>
+      <Row index="18" excelRow="24">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">CLASSROOM LIFE</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.2.W4. Students can practise producing written content based on the current theme ''classroom life with classmates, friendships, daily and study routines, habits, and activities''</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="19" excelRow="25">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">PERSONAL LIFE: PHYSICAL APPEARANCE &amp; PERSONALITY</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.3.R2. Students can bring information together about the current content on ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character'' through skimming, scanning and detailed reading.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="20" excelRow="26">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">PERSONAL LIFE: PHYSICAL APPEARANCE &amp; PERSONALITY</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.3.R3. Students can make sense of and derive meaning from the current content on ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character''.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+      </Row>
+      <Row index="21" excelRow="27">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">PERSONAL LIFE: PHYSICAL APPEARANCE &amp; PERSONALITY</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.3.V1. Students can select and use target vocabulary efficiently, effectively, and accurately, based on the current content about ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character'' after recognising them in context and developing their conscious and inductive vocabulary learning skills.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="22" excelRow="28">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">PERSONAL LIFE: PHYSICAL APPEARANCE &amp; PERSONALITY</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.3.G1. Students can select and use target grammatical language items efficiently, effectively, and accurately, based on the current content about ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character'', after recognising them in context and developing their conscious and inductive grammaring skills through consciousness- raising and discovery.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="23" excelRow="29">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">PERSONAL LIFE: PHYSICAL APPEARANCE &amp; PERSONALITY</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.3.W3. Students can construct new written content on ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character'' based on their understanding of the model(s) provided.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="24" excelRow="30">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">PERSONAL LIFE: PHYSICAL APPEARANCE &amp; PERSONALITY</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.3.W4. Students can practise producing written content based on the current theme ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character''.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="10. sınıf" index="2" rowCount="30" colCount="12">
+    <Metadata>
+      <Info row="1">10. SINIF İNGİLİZCE DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite/ Tema"/>
+      <Column index="2" excelColumn="B" header="Öğrenme Çıktıları"/>
+      <Column index="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">Revision 1</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.1.V1. Students can select and use target vocabulary efficiently, effectively, and accurately, based on the current content about “school life with students of different countries, nationalities, and languages; capitals of their countries, and tourist attractions; activities in their capitals and countries; national days and celebrations” after recognising them in context and developing their conscious and inductive vocabulary learning skills.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Revision 1</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.4.R3. Students can make sense of and derive meaning from the current content on “family life with family members’ jobs, work routines, work activities, and workplaces”.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">Revision 2</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.5.R2. Students can bring information together about the current content on ''life in the house and neighbourhood with types of houses, rooms, furniture and activities in the house'' through skimming, scanning and detailed reading.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Revision 2</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.5.W3. Students can construct new written content on ''life in the house and neighbourhood with types of houses, rooms, furniture and activities in the house'' based on their understanding of the model(s) provided.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Revision 2</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.5.W4. Students can practise producing written content based on the current theme ''life in the house and neighbourhood with types of houses, rooms, furniture and activities in the house''.</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Revision 2</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.9.8.V1. Students can select and use target vocabulary efficiently, effectively, and accurately, based on the current content about ''life in the universe and future with films, film genres, futuristic films with</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">SCHOOL LIFE &amp; EDUCATION</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.10.1.R2. Students can bring information together about the current content on ''school life and education with different types of schools in the world; regular and extracurricular activities at different types of schools; school anxiety and stress; national days and celebrations'' through skimming, scanning and detailed reading.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">SCHOOL LIFE &amp; EDUCATION</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.10.1.R3. Students can make sense of and derive meaning from the current content on ''school life and education with different types of schools in the world; regular and extracurricular activities at different types of schools; school anxiety and stress; national days and celebrations''.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">SCHOOL LIFE &amp; EDUCATION</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.10.1.V1. Students can select and use target vocabulary efficiently, effectively, and accurately, based on the current content about ''school life and education with different types of schools in the world; regular and extracurricular activities at different types of schools; school anxiety and stress; national days and celebrations'' after recognising them in context and developing their conscious and inductive vocabulary learning skills.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">SCHOOL LIFE &amp; EDUCATION</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.10.1.G1. Students can select and use target grammatical language items efficiently, effectively, and accurately, based on the current content about ''school life and education with different types of schools in the world; regular and extracurricular activities at different types of schools; school anxiety and stress; national days and celebrations'', after recognising them in context and developing their conscious and inductive grammaring skills through consciousness-raising and discovery.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="11" excelRow="17">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">SCHOOL LIFE &amp; EDUCATION</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.10.1.W3. Students can construct new written content on ''school life and education with different types of schools in the world; regular and extracurricular activities at different types of schools; school anxiety and stress; national days and celebrations'' based on their understanding of the model(s) provided.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+      </Row>
+      <Row index="12" excelRow="18">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">SCHOOL LIFE &amp; EDUCATION</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.10.1.W4. Students can practise producing written content based on the current theme ''school life and education with different types of schools in the world; regular and extracurricular activities at different types of schools; school anxiety and stress; national days and celebrations''.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="13" excelRow="19">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">CLASSROOM LIFE &amp; LEARNING</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.10.2.R2. Students can bring information together about the current content on ''classroom life and learning with learning activities in the classroom; personal learning styles; learning with technology in the classroom'' through skimming, scanning and detailed reading.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="14" excelRow="20">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">CLASSROOM LIFE &amp; LEARNING</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.10.2.R3. Students can make sense of and derive meaning from the current content on ''classroom life and learning with learning activities in the classroom; personal learning styles; learning with technology in the classroom''.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="15" excelRow="21">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">CLASSROOM LIFE &amp; LEARNING</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.10.2.V1. Students can select and use target vocabulary efficiently, effectively, and accurately, based on the current content about ''classroom life and learning with learning activities in the classroom; personal learning styles; learning with technology in the classroom'' after recognising them in context and developing their conscious and inductive vocabulary learning skills.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="16" excelRow="22">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">CLASSROOM LIFE &amp; LEARNING</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.10.2.G1. Students can select and use target grammatical language items efficiently, effectively, and accurately, based on the current content about ''classroom life and learning with learning activities in the classroom; personal learning styles; learning with technology in the classroom'', after recognising them in context and developing their conscious and inductive grammaring skills through consciousness- raising and discovery.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+      <Row index="17" excelRow="23">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">CLASSROOM LIFE &amp; LEARNING</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.10.2.W3. Students can construct new written content on ''classroom life and learning with learning activities in the classroom; personal learning styles; learning with technology in the classroom'' based on their understanding of the model(s) provided.</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="18" excelRow="24">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">CLASSROOM LIFE &amp; LEARNING</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.10.2.W4. Students can practise producing written content based on the current theme ''classroom life and learning with learning activities in the classroom; personal learning styles; learning with technology in the classroom''.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="19" excelRow="25">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">PERSONAL LIFE AND WELL-BEING</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.10.3.R2. Students can bring information together about the current content on ''personal life and well- being with body parts, human illnesses and diseases; human nature and human well-being today and in the future; fashion and personal fashion preferences'' through skimming, scanning and detailed reading.</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="20" excelRow="26">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">PERSONAL LIFE AND WELL-BEING</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.10.3.R3. Students can make sense of and derive meaning from the current content on ''personal life and well-being with body parts, human illnesses and diseases; human nature and human well-being today and in the future; fashion and personal fashion preferences''.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="21" excelRow="27">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">PERSONAL LIFE AND WELL-BEING</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.10.3.V1. Students can select and use target vocabulary efficiently, effectively, and accurately, based on the current content about ''personal life and well-being with body parts, human illnesses and diseases; human nature and human well-being today and in the future; fashion and personal fashion preferences'' after recognising them in context and developing their conscious and inductive vocabulary learning skills.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+      </Row>
+      <Row index="22" excelRow="28">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">PERSONAL LIFE AND WELL-BEING</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.10.3.G1. Students can select and use target grammatical language items efficiently, effectively, and accurately, based on the current content about ''personal life and well-being with body parts, human illnesses and diseases; human nature and human well-being today and in the future; fashion and personal fashion preferences'', after recognising them in context and developing their conscious and inductive grammaring skills through consciousness-raising and discovery.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="23" excelRow="29">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">PERSONAL LIFE AND WELL-BEING</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.10.3.W3. Students can construct new written content on ''personal life and well-being with body parts, human illnesses and diseases; human nature and human well-being today and in the future; fashion and personal fashion preferences'' based on their understanding of the model(s) provided.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="24" excelRow="30">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">PERSONAL LIFE AND WELL-BEING</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">ENG.10.3.W4. Students can practise producing written content based on the current theme ''personal life and well-being with body parts, human illnesses and diseases; human nature and</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="11. sınıf" index="3" rowCount="20" colCount="12">
+    <Metadata>
+      <Info row="1">11. SINIF İNGİLİZCE DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite/ Tema"/>
+      <Column index="2" excelColumn="B" header="Öğrenme Çıktıları"/>
+      <Column index="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">Future Jobs</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E11.1.R1.Students will be able to analyze different job ads from newspapers/websites to match them with CVs.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Future Jobs</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E11.1.R2. Students will be able to find the main idea of a text on successful entrepreneurs of the 21st century.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Future Jobs</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E11.1.W1. Students will be able to write CVs/Letters of intent for different job applications.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">Hobbies and Skills</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E11.2.R1. Students will be able to identify lexis and expressions related to past abilities in a text</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Hobbies and Skills</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E11.2.R2. Students will be able to paraphrase information in a text about people’s choices.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Hobbies and Skills</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E11.2.W1. Students will be able to write a paragraph about their interests and abilities.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">Hard Times</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E11.3.R1. Students will be able to answer the questions about a text on people’s habits and experiences in the past.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Hard Times</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E11.3.R2. Students will be able to analyze a short story (plot, setting, climax, characters etc.) to summarize it.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Hard Times</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E11.3.R3. Students will be able to identify thesis statement, topic sentences, supporting points and examples in a given sample essay about a challenge.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Hard Times</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E11.3.W1. Students will be able to complete the missing parts of a short story with their own words.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="11" excelRow="17">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">What a Life</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E11.4.R1. Students will be able to order the events in the biography of a famous person/ inventor/ scientist/ celebrity.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="12" excelRow="18">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">What a Life</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E11.4.W1. Students will be able to write an essay about a well-known figure from Turkish history.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+      <Row index="13" excelRow="19">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">Back to the Past</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E11.5.R1. Students will be able to analyze a text to distinguish the expressions used to express wishes, regrets and unreal past.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="14" excelRow="20">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Back to the Past</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E11.5.W1. Students will be able to write their opinions and regrets according to #Iwish.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="12. sınıf" index="4" rowCount="22" colCount="12">
+    <Metadata>
+      <Info row="1">12. SINIF İNGİLİZCE DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite/ Tema"/>
+      <Column index="2" excelColumn="B" header="Öğrenme Çıktıları"/>
+      <Column index="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">Music</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E12.1.R1. Students will be able to infer people’s music preferences from their ideas about music in a reading text.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Music</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E12.1.R2. Students will be able to analyze surveys/interviews to answer related questions.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Music</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E12.1.W1. Students will be able to write a survey report on their friends’/teachers’ music preferences.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">Friendship</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E12.2.R1. Students will be able to find irrelevant content about the descriptions of the people in a text.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Friendship</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E12.2.R2. Students will be able to identify the main conclusions in argumentative texts.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Friendship</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E12.2.W1. Students will be able to write an opinion essay about qualities of a good friend by stating reasons.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">Human Rights</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E12.3.R1. Students will be able to find the supporting ideas in a text about good practices on human rights around the world.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Human Rights</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E12.3.R2. Students will be able to match the paragraphs with the correct phrases/visuals (children rights/gender equality/animal rights/the rights of disadvantaged people, etc.).</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Human Rights</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E12.3.W1. Students will be able to write mottos/slogans about human rights.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Human Rights</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E12.3.W2. Students will be able to write an argumentative essay including solutions for disadvantaged people’s problems.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+      </Row>
+      <Row index="11" excelRow="17">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">Coming Soon</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E12.4.R1. Students will be able to read (aloud) a text about cybercrimes and rights to distinguish the lexis and jargon.</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="12" excelRow="18">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Coming Soon</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E12.4.R2. Students will be able to reorder the scrambled steps of a cyber game in a text.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="13" excelRow="19">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Coming Soon</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E12.4.W1. Students will be able to write detailed descriptions of an imaginary future.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="14" excelRow="20">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Coming Soon</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E12.4.W2. Students will be able to compose a cyber game scenerio.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="15" excelRow="21">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">Psychology</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E12.5.R2. Students will be able to identify specific information in a real-life text.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="16" excelRow="22">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">Psychology</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">E12.5.W1. Students will be able to describe their current mood / mood reflected in a song/ painting/photograph through creative writing.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+</Workbook>

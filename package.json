@@ -1,0 +1,41 @@
+{
+  "name": "optik-ai",
+  "description": "Yapay Zeka Destekli Profesyonel Optik Okuma ve Sınav Değerlendirme Sistemi",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx server.ts",
+    "start": "node server.ts",
+    "build": "vite build",
+    "preview": "vite preview",
+    "clean": "rm -rf dist server.js",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@google/genai": "^3.3.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/express": "^5.0.6",
+    "@types/pdfmake": "^0.3.3",
+    "@vitejs/plugin-react": "^6.1.1",
+    "express": "^5.3.0",
+    "lucide-react": "^0.546.0",
+    "mammoth": "^1.13.0",
+    "motion": "^12.23.24",
+    "pdfmake": "^0.3.14",
+    "react": "^19.0.1",
+    "react-dom": "^19.0.1",
+    "tsx": "^4.23.15",
+    "vite": "^8.3.0",
+    "xlsx": "^0.18.5",
+    "xlsx-js-style": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "autoprefixer": "^10.4.21",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^7.0.2"
+  }
+}

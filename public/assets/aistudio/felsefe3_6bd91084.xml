@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Workbook sourceFile="felsefe3.xlsx" sheetCount="2">
+  <Worksheet name="10. SINIF" index="1" rowCount="11" colCount="13">
+    <Metadata>
+      <Info row="1">10. SINIF FELSEFE DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite/ Tema"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">1. ÜNİTE: FELSEFENİN DOĞASI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Felsefenin Anlamı Felsefi Düşüncenin Özellikleri Felsefi Düşüncenin Gelişimi Felsefi Sorunun Temel Özellikleri Felsefenin Diğer Alanlarla İlişkisi Felsefenin Bireysel ve Toplumsal İşlevi</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FEL.10.1.1. Felsefenin anlamını, gelişim sürecini ve işlevini sorgulayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">3</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">3</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">3</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">3</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">2. ÜNİTE: FELSEFE, MANTIK VE ARGÜMANTASYON</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Düşünme ve Dil İlişkisi</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FEL.10.2.1. Düşünme ve dil ilişkisini yapılandırabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">2. ÜNİTE: FELSEFE, MANTIK VE ARGÜMANTASYON</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Mantık ve Argümantasyonun Temel Kavramları Argümantasyonun Yapısı</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FEL.10.2.2. Mantığın temel kavramlarını ve argümantasyon sürecini yorumlayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">3. ÜNİTE: VARLIK FELSEFESİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Varlık Felsefesinin Konusu ve Temel Kavramları Varlık Felsefesinin Temel Problemleri (Varlığın Var Olup Olmadığı, Varlığın Ne Olduğu)</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FEL.10.3.1. Varlık felsefesinin konusunu, kavramlarını ve problemlerini muhakeme edebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">3</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">3</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">4. ÜNİTE BİLGİ FELSEFESİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Bilgi Felsefesinin Konusu ve Temel Kavramları Bilgi Felsefesinin Temel Problemleri (Bilginin İmkânı, Kaynağı ve Doğruluk Ölçütleri)</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FEL.10.4.1. Bilgi felsefesinin konusunu, kavramlarını ve problemlerini muhakeme edebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="11. SINIF" index="2" rowCount="12" colCount="14">
+    <Metadata>
+      <Info row="1">11. SINIF FELSEFE DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite/ Tema"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">1. ÜNİTE: ÇEVRE SORUNLARI VE FELSEFE</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Çevre ve İnsan İlişkisi Çevre Etiği (İnsan Merkezci Etik, Canlı Merkezci Etik, Çevre Merkezci Etik)</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FEL.11.1.1. Çevre ile ilgili felsefi soru ve problemleri anlayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">3</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">3</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">3</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">1. ÜNİTE: ÇEVRE SORUNLARI VE FELSEFE</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Çevre ve İnsan İlişkisi Çevre Etiği (İnsan Merkezci Etik, Canlı Merkezci Etik, Çevre Merkezci Etik)</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FEL.11.1.2. Çevre sorunlarıyla ilgili felsefi düşünce ortaya koyabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">3</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">3</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">3</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">2. ÜNİTE: TEKNOLOJİ VE HAYAT</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Teknoloji ve İnsan Hayatı Teknoloji Bağlamında Ontolojik Problemler (Ontolojik Anlam Kaybı, Yabancılaşma) Teknoloji Bağlamında Aksiyolojik Problemler (Güvenlik Sorunları, Değerlerin Tahribatı, Ahlaki Eylemin İmkânı)</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FEL.11.2.1. Teknoloji ile ilgili felsefi soru ve problemleri anlayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">2. ÜNİTE: TEKNOLOJİ VE HAYAT</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Teknoloji ve İnsan Hayatı Teknoloji Bağlamında Ontolojik Problemler (Ontolojik Anlam Kaybı, Yabancılaşma) Teknoloji Bağlamında Aksiyolojik Problemler (Güvenlik Sorunları, Değerlerin Tahribatı, Ahlaki Eylemin İmkânı)</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FEL.11.2.2. Teknoloji ve hayat ilişkisiyle ilgili felsefi düşünce ortaya koyabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">3</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">3. ÜNİTE: AKIL VE İNANÇ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Akıl-İnanç İlişkisine Yönelik Felsefi Sorular ve Problemler Akıl-İnanç İlişkisine Yönelik Felsefi Görüş ve Argümanlar</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FEL.11.3.1. Akıl-inanç ilişkisiyle ilgili felsefi soru ve problemleri anlayabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">3</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">3. ÜNİTE: AKIL VE İNANÇ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Akıl-İnanç İlişkisine Yönelik Felsefi Sorular ve Problemler Akıl-İnanç İlişkisine Yönelik Felsefi Görüş ve Argümanlar</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FEL.11.3.2. Akıl-inanç ilişkisiyle ilgili felsefi düşünce ortaya koyabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+</Workbook>

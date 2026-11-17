@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Workbook sourceFile="dkab_orta3.xlsx" sheetCount="4">
+  <Worksheet name="5. Sınıf" index="1" rowCount="15" colCount="12">
+    <Metadata>
+      <Info row="1">5.SINIF DİN KÜLTÜRÜ VE AHLAK BİLGİSİ DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite">ALLAH İNANCI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Evrendeki Mükemmel Düzen</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.5.1.1. Evrendeki mükemmel düzene ilişkin akıl yürütebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">ALLAH İNANCI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Allah’ın Varlığı ve Birliği</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.5.1.2. Evrendeki mükemmel düzenden hareketle Allah’ın (cc) varlığı ve birliğini müşahede edebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">3</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">3</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">3</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">ALLAH İNANCI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Allah’ın Güzel İsimleri</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.5.1.3. Allah’ın (cc) güzel isimlerini bağlamına uygun kullanabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">ALLAH İNANCI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Bir Sure Öğreniyorum: İhlas Suresi</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.5.1.4. İhlas suresini ve bu surenin anlamını okuyarak yorumlayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite">NAMAZ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Allah’ın Huzurunda Olmak: Namaz</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.5.2.1. Namaz ibadetini özetleyebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">NAMAZ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Namazın Kılınışı</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.5.2.2. Namazın kılınışını gözlemleyebilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">NAMAZ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Namazın İnsana Kazandırdıkları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.5.2.3. Namazın insana kazandırdıkları konusunda analitik düşünebilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">NAMAZ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Bir Dua Öğreniyorum: Tahiyyat Duası</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.5.2.4. Tahiyyat duasını ve bu duanın anlamını okuyarak yorumlayabilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Ünite">KUR'AN-I KERİM</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Kur’an-ı Kerim’in İç Düzeni</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.5.3.1. Kur’an-ı Kerim’in iç düzenini çözümleyebilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="6. Sınıf" index="2" rowCount="16" colCount="13">
+    <Metadata>
+      <Info row="1">6.SINIF DİN KÜLTÜRÜ VE AHLAK BİLGİSİ DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite">PEYGAMBER VE İLAHİ KİTAP İNANCI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">İnsanlara Rehber: Peygamber</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.6.1.1. Peygamberlerin insanlara rehber olarak gönderilmesi hakkında bilgi toplayabilme</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">PEYGAMBER VE İLAHİ KİTAP İNANCI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Peygamberlerin İlettiği Mesaj: Vahiy</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.6.1.2. Vahyin gönderiliş amacını idrak edebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">3</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">3</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">3</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">3</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">PEYGAMBER VE İLAHİ KİTAP İNANCI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">İlahi Kitaplar</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.6.1.3. İlahi kitaplarla ilgili bilgileri çözümleyebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">3</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">PEYGAMBER VE İLAHİ KİTAP İNANCI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Bir Sure Öğreniyorum: Felak Suresi</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.6.1.4. Felak suresini ve bu surenin anlamını okuyarak yorumlayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite">RAMAZAN VE ORUÇ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Oruç ve Kur’an Ayı Ramazan</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.6.2.1. Ramazan ayının oruç ve Kur’an ayı olduğunu çözümleyebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">RAMAZAN VE ORUÇ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Oruç İbadeti</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.6.2.2. Oruç ibadeti hakkında bilgi toplayabilme</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">RAMAZAN VE ORUÇ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Orucun İnsana Kazandırdıkları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.6.2.3. Orucun insana kazandırdıkları konusunda analitik düşünebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">RAMAZAN VE ORUÇ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Bir Dua Öğreniyorum: İftar Duası</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.6.2.4. İftar duasını ve bu duanın anlamını okuyarak yorumlayabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Ünite">AHLAKİ DAVRANIŞLAR</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Doğru Sözlü Olmak</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.6.3.1. Doğru sözlü olmayı kendi hayatına yansıtabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">AHLAKİ DAVRANIŞLAR</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Merhametli Olmak</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.6.3.2. Merhamet kavramını ayırt edebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="7. Sınıf" index="3" rowCount="15" colCount="13">
+    <Metadata>
+      <Info row="1">7.SINIF DİN KÜLTÜRÜ VE AHLAK BİLGİSİ DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite">MELEK VE AHİRET İNANCI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Varlıklar Âlemi</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.7.1.1. Melekleri sınıflandırabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">MELEK VE AHİRET İNANCI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Dünya ve Ahiret Hayatı</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.7.1.2. Ahiret hayatının aşamalarını çözümleyebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">MELEK VE AHİRET İNANCI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Melek ve Ahiret İnancının İnsana Kazandırdıkları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.7.1.3. Melek ve ahiret inancının insana kazandırdıkları konusunda analitik düşünebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">3</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">3</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">3</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">MELEK VE AHİRET İNANCI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Bir Sure Öğreniyorum: Nâs Suresi</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.7.1.4. Nâs suresini ve bu surenin anlamını okuyarak yorumlayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite">HAC, UMRE VE KURBAN</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Hac ve Umre İbadeti</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.7.2.1. Hac ve umre ibadetlerini çözümleyebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">HAC, UMRE VE KURBAN</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Kurban İbadeti</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.7.2.2. Kurban ibadetini yapılandırabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">HAC, UMRE VE KURBAN</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Hac ve Kurban İbadetinin Kültürümüze Yansımaları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.7.2.3. Hac ve kurban ibadetinin kültürümüze yansımalarını müşahede edebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">HAC, UMRE VE KURBAN</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Bir Sure Öğreniyorum: Kâfirun Suresi</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.7.2.4. Kâfirun suresini ve bu surenin anlamını okuyarak yorumlayabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Ünite">İSLAM DÜŞÜNCESİNDE YORUMLAR</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Din Anlayışındaki Yorum Farklılıkları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">DKAB.7.3.1. Din anlayışındaki yorum farklılıklarının sebeplerini anlayabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="8. Sınıf" index="4" rowCount="18" colCount="13">
+    <Metadata>
+      <Info row="1">8.SINIF DİN KÜLTÜRÜ VE AHLAK BİLGİSİ DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite"/>
+      <Column index="2" excelColumn="B" header="Konu"/>
+      <Column index="3" excelColumn="C" header="Kazanım"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite">KADER İNANCI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu">Kader ve Kaza İnancı</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanım">DKAB 8.1.1. Kader ve kaza inancını ayet ve hadislerle açıklar.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">KADER İNANCI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu">İnsanın İradesi ve Kader</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanım">DKAB 8.1.2. İnsanın ilmi, iradesi, sorumluluğu ile kader arasında ilişki kurar.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">KADER İNANCI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu">Kaderle İlgili Kavramlar</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanım">DKAB 8.1.3. Kaza ve kader ile ilgili kavramları analiz eder.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">3</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">KADER İNANCI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu" mergedFromAbove="true">Kaderle İlgili Kavramlar</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanım">DKAB 8.1.4. Toplumda kader ve kaza ile ilgili yaygın olan yanlış anlayışları sorgular</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">KADER İNANCI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu">Bir Peygamber Tanıyorum: Hz. Musa (a.s.)</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanım">DKAB 8.1.5. Hz. Musa’nın (a.s.) hayatını ana hatlarıyla tanır.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">KADER İNANCI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu">Bir Ayet Tanıyorum: Ayetelkürsi ve Anlamı</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanım">DKAB 8.1.6. Ayet el-Kürsi’yi okur, anlamını söyler.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite">ZEKÂT VE SADAKA</Cell>
+        <Cell col="2" excelColumn="B" header="Konu">İslam’ın Paylaşma ve Yardımlaşmaya Verdiği Önem</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanım">DKAB 8.2.1. İslam’ın paylaşma ve yardımlaşmaya verdiği önemi ayet ve hadisler ışığında yorumlar.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">ZEKÂT VE SADAKA</Cell>
+        <Cell col="2" excelColumn="B" header="Konu">Zekât ve Sadaka İbadeti</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanım">DKAB 8.2.2. Zekât ve sadaka ibadetini ayet ve hadislerle açıklar.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">ZEKÂT VE SADAKA</Cell>
+        <Cell col="2" excelColumn="B" header="Konu">Zekât ve Sadakanın Bireysel ve Toplumsal Faydaları</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanım">DKAB 8.2.3. Zekât, infak ve sadakanın bireysel ve toplumsal önemini fark eder.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">ZEKÂT VE SADAKA</Cell>
+        <Cell col="2" excelColumn="B" header="Konu">Bir Peygamber Tanıyorum: Hz. Şuayb (as)</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanım">DKAB 8.2.4. Hz. Şuayb’in (a.s.) hayatını ana hatlarıyla tanır.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="11" excelRow="17">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">ZEKÂT VE SADAKA</Cell>
+        <Cell col="2" excelColumn="B" header="Konu">Bir Sure Tanıyorum: Maun Suresi ve Anlamı</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanım">DKAB 8.2.5. Maûn suresini okur, anlamını söyler.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="12" excelRow="18">
+        <Cell col="1" excelColumn="A" header="Ünite">DİN VE HAYAT</Cell>
+        <Cell col="2" excelColumn="B" header="Konu">Din, Birey ve Toplum</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanım">DKAB 8.3.1. Din, birey ve toplum arasındaki ilişkiyi yorumlar.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+</Workbook>

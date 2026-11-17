@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Workbook sourceFile="sosyal2.xlsx" sheetCount="4">
+  <Worksheet name="5. sınıf" index="1" rowCount="14" colCount="15">
+    <Metadata>
+      <Info row="1">5. SINIF SOSYAL BİLGİLER DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6"/>
+      <Column index="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı">BİRLİKTE YAŞAMAK</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Gruplar ve Roller</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.5.1.1. Dâhil olduğu gruplar ve bu gruplardaki rolleri arasındaki ilişkileri çözümleyebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">BİRLİKTE YAŞAMAK</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Kültürel Özelliklere Saygı ve Birlikte Yaşama Kültürü</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.5.1.2. Kültürel özelliklere saygı duymanın birlikte yaşamaya etkisini yorumlayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">BİRLİKTE YAŞAMAK</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Yardımlaşma ve Dayanışma Faaliyetlerinin Toplumsal Birliğe Etkisi</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.5.1.3. Toplumsal birliği sürdürmeye yönelik yardımlaşma ve dayanışma faaliyetlerine katkı sağlayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">3</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">3</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı">EVİMİZ DÜNYA</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Yaşadığı İlin Göreceli Konumu</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.5.2.1. Yaşadığı ilin göreceli konum özelliklerini algılayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">EVİMİZ DÜNYA</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Yaşadığı İlde Doğal ve Beşerî Çevredeki Değişim</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.5.2.2. Yaşadığı ilde doğal ve beşerî çevredeki değişimi neden ve sonuçlarıyla yorumlayabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">2</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">2</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">EVİMİZ DÜNYA</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Yaşadığı İlde Meydana Gelebilecek Afetlerin Etkileri</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.5.2.3.Yaşadığı ilde meydana gelebilecek afetlerin etkilerini azaltmaya yönelik farkın dalık etkinliği fikrini eyleme dönüştürebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">2</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">EVİMİZ DÜNYA</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Ülkemize Komşu Devletler</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.5.2.4. Ülkemize kara sınırı olan komşu devletler hakkında bilgi toplayabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">2</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">2</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı">ORTAK MİRASIMIZ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Ortak Miras Ögeleri</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.5.3.1. Yaşadığı ildeki ortak miras ögelerine ilişkin oluşturduğu ürünü paylaşabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="6. sınıf" index="2" rowCount="14" colCount="15">
+    <Metadata>
+      <Info row="1">6. SINIF SOSYAL BİLGİLER DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6"/>
+      <Column index="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı">BİRLİKTE YAŞAMAK</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Zaman İçinde Değişen Gruplar ve Roller</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.6.1.1. Dâhil olduğu grupların ve bu gruplardaki rollerinin zaman içerisinde değişebile ceğine ilişkin çıkarım yapabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">BİRLİKTE YAŞAMAK</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Kültürel Bağlarımızın ve Millî Değerlerimizin Toplumsal Birlikteliğe Etkisi</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.6.1.2. Kültürel bağlarımızın ve millî değerlerimizin toplumsal birliğe etkisini yorumlayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">BİRLİKTE YAŞAMAK</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Toplumsal Sorunlar ve Çözümler Önerileri</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.6.1.3. Toplumsal hayatta karşılaşılan sorunlara yönelik çözüm önerilerini müzakere edebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">3</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">3</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı">EVİMİZ DÜNYA</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Ülkemizin, Kıtaların ve Okyanusların Konum Özellikleri</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.6.2.1. Ülkemizin, kıtaların ve okyanusların konum özelliklerini algılayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">EVİMİZ DÜNYA</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Doğal ve Beşerî Çevre Özellikleri Arasındaki İlişki</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.6.2.2. Ülkemizin doğal ve beşerî çevre özellikleri arasındaki ilişkiyi çözümleyebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">2</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">2</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">EVİMİZ DÜNYA</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Ülkemizin Türk Dünyasıyla Kültürel İş birlikleri</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.6.2.3. Ülkemizin Türk dünyasıyla kültürel iş birliklerini yorumlayabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">2</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı">ORTAK MİRASIMIZ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Türkistan’da Kurulan İlk Türk Devletlerinin Medeniyetimize Katkıları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.6.3.1. Türkistan’da kurulan ilk Türk devletlerinin medeniyetimize katkılarını sorgulayabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">2</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">2</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">ORTAK MİRASIMIZ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">VII-XIII. Yüzyıllar Arasında İslam Medeniyetinin İnsanlığın Ortak Mirasına Katkıları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.6.3.2. VII-XIII. yüzyıllar arasında İslam medeniyetinin eğitim, bilim, hukuk, kültür, sa nat ve mimari alanlarında insanlığın ortak mirasına katkılarına dair akıl yürütebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="7. sınıf" index="3" rowCount="13" colCount="15">
+    <Metadata>
+      <Info row="1">7. SINIF SOSYAL BİLGİLER DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6"/>
+      <Column index="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı">BİRLİKTE YAŞAMAK</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Gruplarda ve Sosyal Hayatta İletişimin Önemi</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB 7.1.1. Dâhil olduğu gruplarda ve sosyal hayatta etkili iletişimin önemini sorgulayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">BİRLİKTE YAŞAMAK</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Özel Gereksinimli Bireyler İçin Fırsat Eşitliği</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.7.1.2. Özel gereksinimli bireyler için fırsat eşitliğini sürdürmeye yönelik fikir üretebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">BİRLİKTE YAŞAMAK</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Millî Meseleler Karşısında Türk Toplumunun Tutum ve Davranışları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.7.1.3. Türk toplumunun millî meseleler karşısında gösterdiği tutum ve davranışlara ilişkin çıkarım yapabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">3</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">3</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı">EVİMİZ DÜNYA</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Küreselleşmenin İnsan ve Toplum Hayatına Etkisi</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.7.2.1. Küreselleşmenin insan ve toplum hayatında meydana getirdiği değişimi yorumlayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">EVİMİZ DÜNYA</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Bölgesel ve Küresel Sorunların Çözümünde Ülkemizin Rolü</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.7.2.2. Bölgesel ve küresel sorunların çözümünde ülkemizin rolünü özetleyebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">2</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">2</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı">ORTAK MİRASIMIZ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Osmanlı Devleti’nin Cihan Devleti Hâline Gelmesini Sağlayan Politikalar</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.7.3.1. Osmanlı Devleti’nin cihan devleti hâline gelmesini sağlayan politikaları sorgulayabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">2</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">2</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">ORTAK MİRASIMIZ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Osmanlı Devleti’nin Uygulamaya Koyduğu Yenilikler</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">SB.7.3.2. Değişen dünya dengeleri karşısında Osmanlı Devleti’nin uyguladığı yenilikleri neden ve sonuçlarıyla yorumlayabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">2</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">2</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="8. sınıf T.C. inkılap tarihi" index="4" rowCount="20" colCount="16">
+    <Metadata>
+      <Info row="1">8. SINIF T.C. İNKILAP TARİHİ VE ATATÜRKÇÜLÜK DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı"/>
+      <Column index="2" excelColumn="B" header="Kazanım"/>
+      <Column index="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 7"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6"/>
+      <Column index="16" excelColumn="P" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı">1. ÜNİTE: BİR KAHRAMAN DOĞUYOR</Cell>
+        <Cell col="2" excelColumn="B" header="Kazanım">İTA.8.1.1. Avrupa’daki gelişmelerin yansımaları bağlamında Osmanlı Devleti’nin yirminci yüzyılın başlarındaki siyasi ve sosyal durumunu kavrar.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">1. ÜNİTE: BİR KAHRAMAN DOĞUYOR</Cell>
+        <Cell col="2" excelColumn="B" header="Kazanım">İTA.8.1.2. Mustafa Kemal’in çocukluk ve öğrenim hayatından hareketle onun kişilik özelliklerinin oluşumu hakkında çıkarımlarda bulunur.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 7">2</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">1. ÜNİTE: BİR KAHRAMAN DOĞUYOR</Cell>
+        <Cell col="2" excelColumn="B" header="Kazanım">İTA.8.1.3. Gençlik döneminde Mustafa Kemal’in fikir hayatını etkileyen önemli kişileri ve olayları kavrar.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 7">2</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">1. ÜNİTE: BİR KAHRAMAN DOĞUYOR</Cell>
+        <Cell col="2" excelColumn="B" header="Kazanım">İTA.8.1.4. Mustafa Kemal’in askerlik hayatı ile ilgili olayları ve olguları onun kişilik özellikleri ile ilişkilendirir.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 7">2</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı">2. ÜNİTE: MİLLÎ UYANIŞ: BAĞIMSIZLIK YOLUNDA ATILAN ADIMLAR</Cell>
+        <Cell col="2" excelColumn="B" header="Kazanım">İTA.8.2.1. Birinci Dünya Savaşı’nın sebeplerini ve savaşın başlamasına yol açan gelişmeleri kavrar.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 7">2</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">2. ÜNİTE: MİLLÎ UYANIŞ: BAĞIMSIZLIK YOLUNDA ATILAN ADIMLAR</Cell>
+        <Cell col="2" excelColumn="B" header="Kazanım">İTA.8.2.2. Birinci Dünya Savaşı’nda Osmanlı Devleti’nin durumu hakkında çıkarımlarda bulunur.</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">2</Cell>
+        <Cell col="16" excelColumn="P" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">2. ÜNİTE: MİLLÎ UYANIŞ: BAĞIMSIZLIK YOLUNDA ATILAN ADIMLAR</Cell>
+        <Cell col="2" excelColumn="B" header="Kazanım">İTA.8.2.3. Mondros Ateşkes Antlaşması’nın imzalanması ve uygulanması karşısında Osmanlı yönetiminin, Mustafa Kemal’in ve halkın tutumunu analiz eder.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="16" excelColumn="P" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">2. ÜNİTE: MİLLÎ UYANIŞ: BAĞIMSIZLIK YOLUNDA ATILAN ADIMLAR</Cell>
+        <Cell col="2" excelColumn="B" header="Kazanım">İTA.8.2.4. Kuvâ-yı Millîye’nin oluşum sürecini ve sonrasında meydana gelen gelişmeleri kavrar.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">2</Cell>
+        <Cell col="16" excelColumn="P" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">2. ÜNİTE: MİLLÎ UYANIŞ: BAĞIMSIZLIK YOLUNDA ATILAN ADIMLAR</Cell>
+        <Cell col="2" excelColumn="B" header="Kazanım">İTA.8.2.5. Millî Mücadele’nin hazırlık döneminde Mustafa Kemal’in yaptığı çalışmaları analiz eder.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="16" excelColumn="P" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">2. ÜNİTE: MİLLÎ UYANIŞ: BAĞIMSIZLIK YOLUNDA ATILAN ADIMLAR</Cell>
+        <Cell col="2" excelColumn="B" header="Kazanım">İTA.8.2.6. Misakımilli’nin kabulünü ve Büyük Millet Meclisinin açılışını vatanın bütünlüğü esası ile “ulusal egemenlik” ve “tam bağımsızlık” ilkeleri ile ilişkilendirir.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="16" excelColumn="P" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="11" excelRow="17">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">2. ÜNİTE: MİLLÎ UYANIŞ: BAĞIMSIZLIK YOLUNDA ATILAN ADIMLAR</Cell>
+        <Cell col="2" excelColumn="B" header="Kazanım">İTA.8.2.7. Büyük Millet Meclisine karşı ayaklanmalar ile ayaklanmaların bastırılması için alınan tedbirleri analiz eder.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="12" excelRow="18">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">2. ÜNİTE: MİLLÎ UYANIŞ: BAĞIMSIZLIK YOLUNDA ATILAN ADIMLAR</Cell>
+        <Cell col="2" excelColumn="B" header="Kazanım">İTA.8.2.8. Mustafa Kemal’in ve Türk milletinin Sevr Antlaşması’na karşı tepkilerini değerlendirir.</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="16" excelColumn="P" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="13" excelRow="19">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı">3. ÜNİTE: MİLLÎ BİR DESTAN: YA İSTİKLAL YA ÖLÜM!</Cell>
+        <Cell col="2" excelColumn="B" header="Kazanım">İTA.8.3.1. Millî Mücadele Dönemi’nde Doğu Cephesi ve Güney Cephesi’nde meydana gelen gelişmeleri kavrar.</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="16" excelColumn="P" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="14" excelRow="20">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema/Öğrenme Alanı" mergedFromAbove="true">3. ÜNİTE: MİLLÎ BİR DESTAN: YA İSTİKLAL YA ÖLÜM!</Cell>
+        <Cell col="2" excelColumn="B" header="Kazanım">İTA.8.3.2. Millî Mücadele Dönemi’nde Batı Cephesi’nde meydana gelen gelişmeleri kavrar.</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="16" excelColumn="P" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+</Workbook>

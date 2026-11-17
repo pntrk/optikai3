@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Workbook sourceFile="fizik2.xlsx" sheetCount="4">
+  <Worksheet name="9. SINIF" index="1" rowCount="17" colCount="13">
+    <Metadata>
+      <Info row="1">9. SINIF FİZİK DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite/ Tema"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">FİZİK BİLİMİ VE KARİYER KEŞFİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Fizik Bilimi</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.9.1.1. Fizik biliminin tanımına yönelik tümevarımsal akıl yürütebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">FİZİK BİLİMİ VE KARİYER KEŞFİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Fizik Biliminin Alt Dalları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.9.1.2. Fizik biliminin alt dallarını sınıflandırabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">FİZİK BİLİMİ VE KARİYER KEŞFİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Fizik Bilimine Yön Verenler</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.9.1.3. Fizik bilimine katkıda bulunmuş bilim insanlarının deneyimlerini yansıtabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">FİZİK BİLİMİ VE KARİYER KEŞFİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Fizik Bilimi İle İlgili Kariyer Keşfi</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.9.1.4. Bilim ve teknoloji alanında faaliyet gösteren kurum veya kuruluşlarda fizik bilimi ile ilişkili kariyer olanaklarını sorgulayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Temel ve Türetilmiş Nicelikler</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.9.2.1. Birimleri SI birim sisteminde verilen temel ve türetilmiş nicelikleri sınıflandırabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Skaler ve Vektörel Nicelikler</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.9.2.2. Skaler ve vektörel nicelikleri karşılaştırabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Vektörler</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.9.2.3. Aynı doğrultu üzerinde yer alan farklı vektörlerin yön ve büyüklüklerine yönelik bilimsel çıkarım yapabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Vektörler</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.9.2.4. Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralelkenar yöntemi ile bileşenlerine ayırma işlemine ilişkin tümevarımsal akıl yürütebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Doğadaki Temel Kuvvetler</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.9.2.5. Doğadaki temel kuvvetleri karşılaştırabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Hareket ve Hareket Türleri</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.9.2.6. Hareketin temel kavramlarının tanımlarına yönelik tümevarımsal akıl yürütebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="11" excelRow="17">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Hareket ve Hareket Türleri</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.9.2.7. Hareket türlerini sınıflandırabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="10. SINIF" index="2" rowCount="14" colCount="12">
+    <Metadata>
+      <Info row="1">10. SINIF FİZİK DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite/ Tema"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Sabit Hızlı Hareket</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.10.1.1. Yatay doğrultuda sabit hızlı hareket ile ilgili tümevarımsal akıl yürütebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">3</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">3</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Bir Boyutta Sabit İvmeli Hareket</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.10.1.2. İvme ve hız değişimi arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">3</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">3</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">3</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Bir Boyutta Sabit İvmeli Hareket</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.10.1.3. Yatay doğrultuda sabit ivmeyle hareket eden cisimlerin hareket grafiklerinden elde edilen matematiksel modelleri yorumlayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">ENERJİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">İş, Enerji ve Güç</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.10.2.1. Kuvvet-yer değiştirme grafiği kullanılarak iş ile ilgili tümevarımsal akıl yürütebilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">ENERJİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">İş, Enerji ve Güç</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.10.2.2. İş, enerji ve güç kavramlarına ilişkin çıkarım yapabilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">ENERJİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Enerji Biçimleri</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.10.2.3. Enerji biçimlerini karşılaştırabilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">ENERJİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Mekanik Enerji</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.10.2.4. Mekanik enerjiyi çözümleyebilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">ENERJİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Enerji Kaynakları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.10.2.5. Yenilenebilen ve yenilenemeyen enerji kaynaklarını karşılaştırabilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="11. SINIF" index="3" rowCount="18" colCount="12">
+    <Metadata>
+      <Info row="1">11. SINIF FİZİK DERSİ.</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite/ Tema"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Serbest Düşme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.11.1.1. Serbest düşme hareketi yapan cisimlerin ivmesine yönelik tümevarımsal akıl yürütebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Serbest Düşme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.11.1.2. Serbest düşme hareketi ile ilgili kanıt kullanabilme</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">İki Boyutta Sabit İvmeli Hareket</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.11.1.3. İki boyutta sabit ivmeli hareket ile ilgili tümevarımsal akıl yürütebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Newton'ın Hareket Yasaları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.11.1.4. Newton'ın Hareket Yasaları ile ilgili tümevarımsal akıl yürütebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Newton'ın Hareket Yasaları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.11.1.5. Newton'ın Hareket Yasalarını serbest cisim diyagramını kullanarak yorumlayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Newton'ın Hareket Yasaları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.11.1.6. Statik ve kinetik sürtünme kuvvetlerini karşılaştırabilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Sürtünme Kuvveti</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.11.1.7. Sürtünme kuvvetinin matematiksel modeline ilişkin tümevarımsal akıl yürütebilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Limit Hız</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.11.1.8. Limit hızı etkileyen değişkenler ile ilgili bilimsel çıkarım yapabilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Düzgün Çembersel Hareket</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.11.1.9. Düzgün çembersel hareket yapan cisimlerin yörüngeleri ve hız vektörleri hakkında anolojik akıl yürütebilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">KUVVET VE HAREKET</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Düzgün Çembersel Hareket</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.11.1.10. Düzgün çembersel hareketin değişkenler arasındaki ilişkilerin matematiksel olarak modellemesine ilişkin tümevarımsal akıl yürütebilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="11" excelRow="17">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">ELEKTRİK VE MANYETİZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Elektriksel Kuvvet ve Elektriksel Alan</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.11.2.1. Elektrik yükleri arasındaki elektriksel kuvvetin matematiksel modeline yönelik tümevarımsal akıl yürütebilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="12" excelRow="18">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">ELEKTRİK VE MANYETİZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Elektriksel Kuvvet ve Elektriksel Alan</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">FİZ.11.2.2. Elektriksel alanın matematiksel modeline yönelik tümevarımsal akıl yürütebilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="12. SINIF" index="4" rowCount="29" colCount="11">
+    <Rows>
+      <Row index="1" excelRow="1">
+        <Cell col="1" excelColumn="A">12. SINIF FİZİK DERSİ</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">12. SINIF FİZİK DERSİ</Cell>
+        <Cell col="3" excelColumn="C" mergedFromAbove="true">12. SINIF FİZİK DERSİ</Cell>
+        <Cell col="4" excelColumn="D" mergedFromAbove="true">12. SINIF FİZİK DERSİ</Cell>
+        <Cell col="5" excelColumn="E" mergedFromAbove="true">12. SINIF FİZİK DERSİ</Cell>
+        <Cell col="6" excelColumn="F" mergedFromAbove="true">12. SINIF FİZİK DERSİ</Cell>
+        <Cell col="7" excelColumn="G" mergedFromAbove="true">12. SINIF FİZİK DERSİ</Cell>
+        <Cell col="8" excelColumn="H" mergedFromAbove="true">12. SINIF FİZİK DERSİ</Cell>
+        <Cell col="9" excelColumn="I" mergedFromAbove="true">12. SINIF FİZİK DERSİ</Cell>
+        <Cell col="10" excelColumn="J" mergedFromAbove="true">12. SINIF FİZİK DERSİ</Cell>
+        <Cell col="11" excelColumn="K" mergedFromAbove="true">12. SINIF FİZİK DERSİ</Cell>
+      </Row>
+      <Row index="2" excelRow="2">
+        <Cell col="1" excelColumn="A">1. DÖNEM ORTAK YAZILI SINAVLAR</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">1. DÖNEM ORTAK YAZILI SINAVLAR</Cell>
+        <Cell col="3" excelColumn="C" mergedFromAbove="true">1. DÖNEM ORTAK YAZILI SINAVLAR</Cell>
+        <Cell col="4" excelColumn="D" mergedFromAbove="true">1. DÖNEM ORTAK YAZILI SINAVLAR</Cell>
+        <Cell col="5" excelColumn="E" mergedFromAbove="true">1. DÖNEM ORTAK YAZILI SINAVLAR</Cell>
+        <Cell col="6" excelColumn="F" mergedFromAbove="true">1. DÖNEM ORTAK YAZILI SINAVLAR</Cell>
+        <Cell col="7" excelColumn="G" mergedFromAbove="true">1. DÖNEM ORTAK YAZILI SINAVLAR</Cell>
+        <Cell col="8" excelColumn="H" mergedFromAbove="true">1. DÖNEM ORTAK YAZILI SINAVLAR</Cell>
+        <Cell col="9" excelColumn="I" mergedFromAbove="true">1. DÖNEM ORTAK YAZILI SINAVLAR</Cell>
+        <Cell col="10" excelColumn="J" mergedFromAbove="true">1. DÖNEM ORTAK YAZILI SINAVLAR</Cell>
+        <Cell col="11" excelColumn="K" mergedFromAbove="true">1. DÖNEM ORTAK YAZILI SINAVLAR</Cell>
+      </Row>
+      <Row index="3" excelRow="3">
+        <Cell col="1" excelColumn="A">KONU SORU DAĞILIM TABLOSU</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">KONU SORU DAĞILIM TABLOSU</Cell>
+        <Cell col="3" excelColumn="C" mergedFromAbove="true">KONU SORU DAĞILIM TABLOSU</Cell>
+        <Cell col="4" excelColumn="D" mergedFromAbove="true">KONU SORU DAĞILIM TABLOSU</Cell>
+        <Cell col="5" excelColumn="E" mergedFromAbove="true">KONU SORU DAĞILIM TABLOSU</Cell>
+        <Cell col="6" excelColumn="F" mergedFromAbove="true">KONU SORU DAĞILIM TABLOSU</Cell>
+        <Cell col="7" excelColumn="G" mergedFromAbove="true">KONU SORU DAĞILIM TABLOSU</Cell>
+        <Cell col="8" excelColumn="H" mergedFromAbove="true">KONU SORU DAĞILIM TABLOSU</Cell>
+        <Cell col="9" excelColumn="I" mergedFromAbove="true">KONU SORU DAĞILIM TABLOSU</Cell>
+        <Cell col="10" excelColumn="J" mergedFromAbove="true">KONU SORU DAĞILIM TABLOSU</Cell>
+        <Cell col="11" excelColumn="K" mergedFromAbove="true">KONU SORU DAĞILIM TABLOSU</Cell>
+      </Row>
+      <Row index="4" excelRow="5">
+        <Cell col="1" excelColumn="A">ÜNİTE</Cell>
+        <Cell col="2" excelColumn="B">KONU</Cell>
+        <Cell col="3" excelColumn="C">KAZANIM</Cell>
+        <Cell col="4" excelColumn="D">1. Dönem 1. Ortak Yazılı Sınav</Cell>
+        <Cell col="5" excelColumn="E" mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav</Cell>
+        <Cell col="6" excelColumn="F" mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav</Cell>
+        <Cell col="7" excelColumn="G" mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav</Cell>
+        <Cell col="8" excelColumn="H">1. Dönem 2. Ortak Yazılı Sınav</Cell>
+        <Cell col="9" excelColumn="I" mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav</Cell>
+        <Cell col="10" excelColumn="J" mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav</Cell>
+        <Cell col="11" excelColumn="K" mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav</Cell>
+      </Row>
+      <Row index="5" excelRow="6">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">ÜNİTE</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">KONU</Cell>
+        <Cell col="3" excelColumn="C" mergedFromAbove="true">KAZANIM</Cell>
+      </Row>
+      <Row index="6" excelRow="7">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">ÜNİTE</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">KONU</Cell>
+        <Cell col="3" excelColumn="C" mergedFromAbove="true">KAZANIM</Cell>
+        <Cell col="4" excelColumn="D">Senaryo 1</Cell>
+        <Cell col="5" excelColumn="E">Senaryo 2</Cell>
+        <Cell col="6" excelColumn="F">Senaryo 3</Cell>
+        <Cell col="7" excelColumn="G">Senaryo 4</Cell>
+        <Cell col="8" excelColumn="H">Senaryo 1</Cell>
+        <Cell col="9" excelColumn="I">Senaryo 2</Cell>
+        <Cell col="10" excelColumn="J">Senaryo 3</Cell>
+        <Cell col="11" excelColumn="K">Senaryo 4</Cell>
+      </Row>
+      <Row index="7" excelRow="8">
+        <Cell col="1" excelColumn="A">ÇEMBERSEL HAREKET</Cell>
+        <Cell col="2" excelColumn="B">DÜZGÜN ÇEMBERSEL HAREKET</Cell>
+        <Cell col="3" excelColumn="C">12.1.1.1. Düzgün çembersel hareketi açıklar.</Cell>
+        <Cell col="4" excelColumn="D">1</Cell>
+        <Cell col="5" excelColumn="E">1</Cell>
+      </Row>
+      <Row index="8" excelRow="9">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">ÇEMBERSEL HAREKET</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">DÜZGÜN ÇEMBERSEL HAREKET</Cell>
+        <Cell col="3" excelColumn="C">12.1.1.2. Düzgün çembersel harekette merkezcil kuvvetin bağlı olduğu değişkenleri analiz eder.</Cell>
+        <Cell col="5" excelColumn="E">1</Cell>
+        <Cell col="7" excelColumn="G">1</Cell>
+      </Row>
+      <Row index="9" excelRow="10">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">ÇEMBERSEL HAREKET</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">DÜZGÜN ÇEMBERSEL HAREKET</Cell>
+        <Cell col="3" excelColumn="C">12.1.1.3. Düzgün çembersel hareket yapan cisimlerin hareketini analiz eder.</Cell>
+        <Cell col="4" excelColumn="D">1</Cell>
+        <Cell col="6" excelColumn="F">1</Cell>
+        <Cell col="8" excelColumn="H">1</Cell>
+      </Row>
+      <Row index="10" excelRow="11">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">ÇEMBERSEL HAREKET</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">DÜZGÜN ÇEMBERSEL HAREKET</Cell>
+        <Cell col="3" excelColumn="C">12.1.1.4. Yatay, düşey, eğimli zeminlerde araçların emniyetli dönüş şartları ile ilgili hesaplamalar yapar.</Cell>
+        <Cell col="6" excelColumn="F">1</Cell>
+        <Cell col="7" excelColumn="G">1</Cell>
+      </Row>
+      <Row index="11" excelRow="12">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">ÇEMBERSEL HAREKET</Cell>
+        <Cell col="2" excelColumn="B">DÖNEREK ÖTELEME HAREKETİ</Cell>
+        <Cell col="3" excelColumn="C">12.1.2.1. Öteleme ve dönme hareketini karşılaştırır.</Cell>
+        <Cell col="4" excelColumn="D">1</Cell>
+        <Cell col="5" excelColumn="E">1</Cell>
+        <Cell col="7" excelColumn="G">1</Cell>
+        <Cell col="10" excelColumn="J">1</Cell>
+      </Row>
+      <Row index="12" excelRow="13">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">ÇEMBERSEL HAREKET</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">DÖNEREK ÖTELEME HAREKETİ</Cell>
+        <Cell col="3" excelColumn="C">12.1.2.2. Eylemsizlik momenti kavramını açıklar.</Cell>
+        <Cell col="4" excelColumn="D">1</Cell>
+        <Cell col="5" excelColumn="E">1</Cell>
+        <Cell col="7" excelColumn="G">1</Cell>
+      </Row>
+      <Row index="13" excelRow="14">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">ÇEMBERSEL HAREKET</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">DÖNEREK ÖTELEME HAREKETİ</Cell>
+        <Cell col="3" excelColumn="C">12.1.2.3. Dönme ve dönerek öteleme hareketi yapan cismin kinetik enerjisinin bağlı olduğu değişkenleri açıklar.</Cell>
+        <Cell col="6" excelColumn="F">1</Cell>
+        <Cell col="7" excelColumn="G">1</Cell>
+      </Row>
+      <Row index="14" excelRow="15">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">ÇEMBERSEL HAREKET</Cell>
+        <Cell col="2" excelColumn="B">AÇISAL MOMENTUM</Cell>
+        <Cell col="3" excelColumn="C">12.1.3.1. Açısal momentumun fiziksel bir nicelik olduğunu açıklar.</Cell>
+        <Cell col="5" excelColumn="E">1</Cell>
+        <Cell col="7" excelColumn="G">1</Cell>
+        <Cell col="8" excelColumn="H">1</Cell>
+      </Row>
+      <Row index="15" excelRow="16">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">ÇEMBERSEL HAREKET</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">AÇISAL MOMENTUM</Cell>
+        <Cell col="3" excelColumn="C">12.1.3.2. Açısal momentumu çizgisel momentum ile ilişkilendirerek açıklar.</Cell>
+        <Cell col="4" excelColumn="D">1</Cell>
+      </Row>
+      <Row index="16" excelRow="17">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">ÇEMBERSEL HAREKET</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">AÇISAL MOMENTUM</Cell>
+        <Cell col="3" excelColumn="C">12.1.3.3. Açısal momentumu torkla ilişkilendirir.</Cell>
+        <Cell col="6" excelColumn="F">1</Cell>
+        <Cell col="9" excelColumn="I">1</Cell>
+      </Row>
+      <Row index="17" excelRow="18">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">ÇEMBERSEL HAREKET</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">AÇISAL MOMENTUM</Cell>
+        <Cell col="3" excelColumn="C">12.1.3.4. Açısal momentumun korunumunu günlük hayattan örneklerle açıklar.</Cell>
+        <Cell col="5" excelColumn="E">1</Cell>
+        <Cell col="6" excelColumn="F">1</Cell>
+        <Cell col="7" excelColumn="G">1</Cell>
+        <Cell col="11" excelColumn="K">1</Cell>
+      </Row>
+      <Row index="18" excelRow="19">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">ÇEMBERSEL HAREKET</Cell>
+        <Cell col="2" excelColumn="B">KÜTLE ÇEKİM KUVVETİ</Cell>
+        <Cell col="3" excelColumn="C">12.1.4.1. Kütle çekim kuvvetini açıklar.</Cell>
+        <Cell col="7" excelColumn="G">1</Cell>
+        <Cell col="11" excelColumn="K">1</Cell>
+      </Row>
+      <Row index="19" excelRow="20">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">ÇEMBERSEL HAREKET</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">KÜTLE ÇEKİM KUVVETİ</Cell>
+        <Cell col="3" excelColumn="C">12.1.4.2. Newton’ın Hareket Kanunları’nı kullanarak kütle çekim ivmesinin bağlı olduğu değişkenleri belirler.</Cell>
+        <Cell col="4" excelColumn="D">1</Cell>
+        <Cell col="5" excelColumn="E">1</Cell>
+        <Cell col="8" excelColumn="H">1</Cell>
+        <Cell col="9" excelColumn="I">1</Cell>
+        <Cell col="10" excelColumn="J">1</Cell>
+      </Row>
+      <Row index="20" excelRow="21">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">ÇEMBERSEL HAREKET</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">KÜTLE ÇEKİM KUVVETİ</Cell>
+        <Cell col="3" excelColumn="C">12.1.4.3. Kütle çekim potansiyel enerjisini açıklar.</Cell>
+        <Cell col="6" excelColumn="F">1</Cell>
+        <Cell col="10" excelColumn="J">1</Cell>
+      </Row>
+      <Row index="21" excelRow="22">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">ÇEMBERSEL HAREKET</Cell>
+        <Cell col="2" excelColumn="B">KEPLER KANUNLARI</Cell>
+        <Cell col="3" excelColumn="C">12.1.5.1. Kepler Kanun'larını açıklar.</Cell>
+        <Cell col="9" excelColumn="I">1</Cell>
+        <Cell col="10" excelColumn="J">1</Cell>
+        <Cell col="11" excelColumn="K">1</Cell>
+      </Row>
+      <Row index="22" excelRow="23">
+        <Cell col="1" excelColumn="A">BASİT HARMONİK HAREKET</Cell>
+        <Cell col="2" excelColumn="B">BASİT HARMONİK HAREKET</Cell>
+        <Cell col="3" excelColumn="C">12.2.1.1. Basit harmonik hareketi düzgün çembersel hareketi kullanarak açıklar.</Cell>
+        <Cell col="9" excelColumn="I">1</Cell>
+        <Cell col="11" excelColumn="K">1</Cell>
+      </Row>
+      <Row index="23" excelRow="24">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">BASİT HARMONİK HAREKET</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">BASİT HARMONİK HAREKET</Cell>
+        <Cell col="3" excelColumn="C">12.2.1.2. Basit harmonik harekette konumun zamana göre değişimini analiz eder.</Cell>
+        <Cell col="8" excelColumn="H">1</Cell>
+        <Cell col="10" excelColumn="J">1</Cell>
+        <Cell col="11" excelColumn="K">1</Cell>
+      </Row>
+      <Row index="24" excelRow="25">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">BASİT HARMONİK HAREKET</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">BASİT HARMONİK HAREKET</Cell>
+        <Cell col="3" excelColumn="C">12.2.1.3. Basit harmonik harekette kuvvet,hız ve ivmenin konuma göre değişimi ile ilgili hesaplamalar yapar.</Cell>
+        <Cell col="8" excelColumn="H">1</Cell>
+        <Cell col="9" excelColumn="I">1</Cell>
+        <Cell col="10" excelColumn="J">1</Cell>
+      </Row>
+      <Row index="25" excelRow="26">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">BASİT HARMONİK HAREKET</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">BASİT HARMONİK HAREKET</Cell>
+        <Cell col="3" excelColumn="C">12.2.1.4. Yay sarkacı ve basit sarkaçta periyodun bağlı olduğu değişkenleri belirler.</Cell>
+      </Row>
+      <Row index="26" excelRow="27">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">BASİT HARMONİK HAREKET</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">BASİT HARMONİK HAREKET</Cell>
+        <Cell col="3" excelColumn="C">12.2.1.5. Yay sarkacı ve basit sarkacın periyodu ile ilgili hesaplamalar yapar.</Cell>
+        <Cell col="8" excelColumn="H">1</Cell>
+        <Cell col="9" excelColumn="I">1</Cell>
+        <Cell col="10" excelColumn="J">1</Cell>
+        <Cell col="11" excelColumn="K">1</Cell>
+      </Row>
+      <Row index="27" excelRow="28">
+        <Cell col="1" excelColumn="A">DALGA MEKANİĞİ</Cell>
+        <Cell col="2" excelColumn="B">DALGALARDA KIRINIM, GİRİŞİM VE DOPPLEROLAYI</Cell>
+        <Cell col="3" excelColumn="C">12.3.1.1. Su dalgalarında kırınım olayının dalga boyu ve yarık genişliği ile ilişkisini belirler.</Cell>
+        <Cell col="8" excelColumn="H">1</Cell>
+        <Cell col="9" excelColumn="I">1</Cell>
+      </Row>
+      <Row index="28" excelRow="29">
+        <Cell col="1" excelColumn="A" mergedFromAbove="true">DALGA MEKANİĞİ</Cell>
+        <Cell col="2" excelColumn="B" mergedFromAbove="true">DALGALARDA KIRINIM, GİRİŞİM VE DOPPLEROLAYI</Cell>
+        <Cell col="3" excelColumn="C">12.3.1.2. Su dalgalarında girişim olayını açıklar.</Cell>
+        <Cell col="8" excelColumn="H">1</Cell>
+        <Cell col="10" excelColumn="J">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+</Workbook>

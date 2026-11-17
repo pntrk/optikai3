@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Workbook sourceFile="biyoloji3_4.xlsx" sheetCount="4">
+  <Worksheet name="9. SINIF" index="1" rowCount="12" colCount="11">
+    <Metadata>
+      <Info row="1">9 SINIF BİYOLOJİ DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite/ Tema"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">YAŞAM</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Biyolojinin Önemi, Biyoloji Biliminin Gelişimindeki Dönüm Noktaları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">BİY.9.1.1. Biyolojideki dönüm noktalarının insan hayatına katkılarını sorgulayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">3</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">YAŞAM</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Bilimin Doğası, Bilimsel Araştırma Süreçleri</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">BİY.9.1.2. Bilimsel araştırma süreçlerinde bilimin doğasını yorumlayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">3</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">3</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">3</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">YAŞAM</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Bilim Etiği</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">BİY.9.1.3. Bilimsel araştırmaların bilim etiğine uygunluğu ile ilgili bilgi toplayabilme</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">YAŞAM</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Hücresel Yapı, Organizasyon, Beslenme, Enerji Üretimi ve Tüketimi, Boşaltım, Büyüme ve Gelişme, Metabolizma, Uyarılara Tepki, Homeostazi, Üreme, Varyasyon ve Adaptasyon</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">BİY.9.1.4. Çevresindeki canlıların özelliklerini bilimsel olarak gözlemleyebilme</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">3</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">3</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">YAŞAM</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">İnorganik Moleküller (Su, Mineraller)</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">BİY.9.1.5. İnorganik moleküllerin önemi hakkında bilimsel çıkarım yapabilme</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">3</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">3</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">YAŞAM</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Organik Moleküller (Karbohidratlar [Monosakkaritler (Riboz, Deoksiriboz, Fruktoz, Glikoz, Galaktoz)], Disakkaritler (Sükroz, Maltoz, Laktoz), Polisakkaritler (Glikojen, Nişasta, Selüloz, Kitin), Lipitler (Yağ Asitleri, Trigliseritler, Fosfolipitler, Steroitler), Proteinler (Amino Asitlerin Yapısı, Enzimler (Basit ve Bileşik Enzimler, Aktivasyon Enerjisi, Enzim-Substrat İlişkisi, Enzimatik Reaksiyonlara Etki Eden Faktörler), Nükleik Asitler (DNA ve RNA’nın Yapısı), Vitaminler (Yağda Çözünen Vitaminler, Suda Çözünen Vitaminler)</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">BİY.9.1.6. Organik moleküllerin yapısı ve çeşitleriyle ilgili bilgi toplayabilme</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="10. SINIF" index="2" rowCount="15" colCount="10">
+    <Metadata>
+      <Info row="1">10. SINIF BİYOLOJİ DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="B" header="Ünite/ Tema"/>
+      <Column index="2" excelColumn="C" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="D" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="9" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="10" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="B" header="Ünite/ Tema">ENERJİ</Cell>
+        <Cell col="2" excelColumn="C" header="Konu (İçerik Çerçevesi)">Canlılık İçin Enerjinin Önemi (ATP’nin Yapısı ve Enerji Aktarımında ATP’nin Rolü)</Cell>
+        <Cell col="3" excelColumn="D" header="Öğrenme Çıktıları">BİY.10.1.1. Canlıların yaşamına devam edebilmesi için enerjinin gerekliliğini sorgulayabilme</Cell>
+        <Cell col="4" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">3</Cell>
+        <Cell col="6" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">3</Cell>
+        <Cell col="9" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="B" header="Ünite/ Tema" mergedFromAbove="true">ENERJİ</Cell>
+        <Cell col="2" excelColumn="C" header="Konu (İçerik Çerçevesi)">Işık Enerjisi Kullanılarak Besin Sentezi: Fotosentez (Işığın Kullanıldığı Tepkimeler, Işığın Kullanılmadığı Tepkimeler, Fotosentez Hızına Etki Eden Çevresel Faktörler)</Cell>
+        <Cell col="3" excelColumn="D" header="Öğrenme Çıktıları">BİY.10.1.2. Fotosentez reaksiyonlarıyla ilgili bilimsel model oluşturabilme</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="B" header="Ünite/ Tema" mergedFromAbove="true">ENERJİ</Cell>
+        <Cell col="2" excelColumn="C" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Işık Enerjisi Kullanılarak Besin Sentezi: Fotosentez (Işığın Kullanıldığı Tepkimeler, Işığın Kullanılmadığı Tepkimeler, Fotosentez Hızına Etki Eden Çevresel Faktörler)</Cell>
+        <Cell col="3" excelColumn="D" header="Öğrenme Çıktıları">BİY.10.1.3. Fotosentezde kullanılan ve üretilen maddelerle ilgili deney yapabilme</Cell>
+        <Cell col="4" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="B" header="Ünite/ Tema" mergedFromAbove="true">ENERJİ</Cell>
+        <Cell col="2" excelColumn="C" header="Konu (İçerik Çerçevesi)">Işık Enerjisi Kullanılmadan Besin Sentezi: Kemosentez</Cell>
+        <Cell col="3" excelColumn="D" header="Öğrenme Çıktıları">BİY.10.1.4. Kemosentez hakkında bilgi toplayabilme</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="B" header="Ünite/ Tema" mergedFromAbove="true">ENERJİ</Cell>
+        <Cell col="2" excelColumn="C" header="Konu (İçerik Çerçevesi)">Sindirim (Hücre İçi Sindirim ve Hücre Dışı Sindirim), Canlılarda Sindirim Yapıları</Cell>
+        <Cell col="3" excelColumn="D" header="Öğrenme Çıktıları">BİY.10.1.5. Canlılarda sindirim çeşitlerini ve yapılarını sınıflandırabilme</Cell>
+        <Cell col="4" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">3</Cell>
+        <Cell col="8" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="10" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="B" header="Ünite/ Tema" mergedFromAbove="true">ENERJİ</Cell>
+        <Cell col="2" excelColumn="C" header="Konu (İçerik Çerçevesi)">İnsanda Sindirim, Emilim ve Taşınma</Cell>
+        <Cell col="3" excelColumn="D" header="Öğrenme Çıktıları">BİY.10.1.6. İnsanda enerji eldesi için sindirim, emilim ve taşıma süreçlerinin gerekliliği ile ilgili bilimsel çıkarım yapabilme</Cell>
+        <Cell col="8" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="9" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="B" header="Ünite/ Tema" mergedFromAbove="true">ENERJİ</Cell>
+        <Cell col="2" excelColumn="C" header="Konu (İçerik Çerçevesi)">Hücresel Solunum (Glikoliz, Sitrik Asit Döngüsü, Elektron Taşıma Sistemi)</Cell>
+        <Cell col="3" excelColumn="D" header="Öğrenme Çıktıları">BİY.10.1.7. Hücresel solunum reaksiyonlarıyla ilgili bilimsel model oluşturabilme</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="B" header="Ünite/ Tema" mergedFromAbove="true">ENERJİ</Cell>
+        <Cell col="2" excelColumn="C" header="Konu (İçerik Çerçevesi)">Besinlerin Solunuma Katılma Yolları</Cell>
+        <Cell col="3" excelColumn="D" header="Öğrenme Çıktıları">BİY.10.1.8. Farklı besin gruplarından enerji eldesi süreçlerini karşılaştırabilme</Cell>
+        <Cell col="8" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="9" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="B" header="Ünite/ Tema" mergedFromAbove="true">ENERJİ</Cell>
+        <Cell col="2" excelColumn="C" header="Konu (İçerik Çerçevesi)">Fermantasyon (Laktik Asit Fermantasyonu, Etil Alkol Fermantasyonu)</Cell>
+        <Cell col="3" excelColumn="D" header="Öğrenme Çıktıları">BİY.10.1.9. Fermantasyon ile ilgili deney yapabilme</Cell>
+        <Cell col="9" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="11. SINIF" index="3" rowCount="16" colCount="13">
+    <Metadata>
+      <Info row="1">11. SINIF BİYOLOJİ DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite/ Tema"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema">TEPKİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Farklı Canlıların Uyaranlara Karşı Oluşturduğu Tepkiler</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">BİY.11.1.1. Farklı canlıların uyaranlara karşı oluşturduğu tepki mekanizmaları ile ilgili tümevarımsal akıl yürütebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">TEPKİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Bitkisel Hormonlar Bitkilerde Tepki Mekanizmaları (Tropizma, Nasti)</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">BİY.11.1.2. Bitkisel hormonların etkileri hakkında akıl yürütebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">TEPKİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Bitkisel Hormonlar Bitkilerde Tepki Mekanizmaları (Tropizma, Nasti)</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">BİY.11.1.3. Bitkilerdeki tepki mekanizmalarını sınıflandırabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">TEPKİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Bitkisel Hormonlar Bitkilerde Tepki Mekanizmaları (Tropizma, Nasti)</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">BİY.11.1.4. Bitkilerde yönelme hareketlerini gözlemleyebileceği deney yapabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">TEPKİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Uyartıların Alınması (Reseptörler, Uyaran Çeşitleri), Nöronların Yapısı, Nöronlarda Sinyal İletimi ve Sinaps, Duyu Organları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">BİY.11.1.5. Duyu reseptörlerini ve duyu reseptörlerinin bulunduğu duyu organlarını sınıflandırabilme</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">TEPKİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">Uyartıların Alınması (Reseptörler, Uyaran Çeşitleri), Nöronların Yapısı, Nöronlarda Sinyal İletimi ve Sinaps, Duyu Organları</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">BİY.11.1.6. Hayvanlardaki sinir sistemi farklılıkları ile ilgili analojik akıl yürütebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">TEPKİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">İnsan Sinir Sisteminin Yapısı</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">BİY.11.1.7. İnsanda sinir sistemi yapısını çözümleyebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">TEPKİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Refleksler</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">BİY.11.1.8. Refleks olayını yorumlayabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">TEPKİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Kemik, Eklem ve Kasların Hareketteki Rolü, Kemik ve Kasların Birlikte Çalışma İlişkisi</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">BİY.11.1.9. Harekete dayalı tepkinin oluşmasında iskelet, kas ve eklemlerin eş güdümlü çalışmasıyla ilgili eleştirel düşünebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Ünite/ Tema" mergedFromAbove="true">TEPKİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">Kaslarda Kasılmanın Kontrolü, Kasların Kasılma Mekanizması</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">BİY.11.1.10. İskelet kaslarının kasılma ve gevşeme mekanizması ile ilgili bilimsel model oluşturabilme</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="12. SINIF" index="4" rowCount="15" colCount="12">
+    <Metadata>
+      <Info row="1">12. SINIF BİYOLOJİ DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Ünite"/>
+      <Column index="2" excelColumn="B" header="Konu"/>
+      <Column index="3" excelColumn="C" header="Kazanımlar"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Ünite">GENDEN PROTEİNE</Cell>
+        <Cell col="2" excelColumn="B" header="Konu">Nükleik Asitlerin Keşfi ve Önemi</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">12.1.1.1. Nükleik asitlerin keşif sürecini özetler.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">GENDEN PROTEİNE</Cell>
+        <Cell col="2" excelColumn="B" header="Konu" mergedFromAbove="true">Nükleik Asitlerin Keşfi ve Önemi</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">12.1.1.2. Nükleik asitlerin çeşitlerini ve görevlerini açıklar.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">3</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">3</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">3</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">GENDEN PROTEİNE</Cell>
+        <Cell col="2" excelColumn="B" header="Konu" mergedFromAbove="true">Nükleik Asitlerin Keşfi ve Önemi</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">12.1.1.3. Hücredeki genetik materyalin organizasyonunda parça bütün ilişkisi kurar.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">GENDEN PROTEİNE</Cell>
+        <Cell col="2" excelColumn="B" header="Konu" mergedFromAbove="true">Nükleik Asitlerin Keşfi ve Önemi</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">12.1.1.4. DNA' nın kendini eşlemesini açıklar.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">GENDEN PROTEİNE</Cell>
+        <Cell col="2" excelColumn="B" header="Konu">Genetik şifre ve Protein sentezi</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">12.1.2.1. Protein sentezinin mekanizmasını açıklar.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">GENDEN PROTEİNE</Cell>
+        <Cell col="2" excelColumn="B" header="Konu" mergedFromAbove="true">Genetik şifre ve Protein sentezi</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">12.1.2.2. Genetik mühendisliği ve biyoteknoloji kavramlarını açıklar.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">GENDEN PROTEİNE</Cell>
+        <Cell col="2" excelColumn="B" header="Konu" mergedFromAbove="true">Genetik şifre ve Protein sentezi</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">12.1.2.3. Genetik mühendisliği ve biyoteknoloji uygulamalarını açıklar.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">3</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">3</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Ünite" mergedFromAbove="true">GENDEN PROTEİNE</Cell>
+        <Cell col="2" excelColumn="B" header="Konu" mergedFromAbove="true">Genetik şifre ve Protein sentezi</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">12.1.2.4. Genetik mühendisliği ve biyoteknoloji uygulamalarının insan hayatına etkisini değerlendirir.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Ünite">CANLILARDA ENERJİ DÖNÜŞÜMLERi</Cell>
+        <Cell col="2" excelColumn="B" header="Konu">Canlılık ve Enerji</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">12.2.1.1. Canlılığın devamı için enerjinin gerekliliğini açıklar.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+</Workbook>

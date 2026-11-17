@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Workbook sourceFile="edebiyat2.xlsx" sheetCount="5">
+  <Worksheet name="9. Sınıf" index="1" rowCount="14" colCount="10">
+    <Metadata>
+      <Info row="1">9. SINIF TÜRK DİLİ VE EDEBİYATI DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Tema"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Tema">1. TEMA: SÖZÜN İNCELİĞİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">OKUMA • Tema içeriğine uygun bir şiir • Tema içeriğine uygun bir deneme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.1. “Sözün İnceliği” temasında ele alınan metinlerde okumayı yönetebilme</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: SÖZÜN İNCELİĞİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">OKUMA • Tema içeriğine uygun bir şiir • Tema içeriğine uygun bir deneme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.2. “Sözün İnceliği” temasında ele alınan metinlerde anlam oluşturabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">4</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">5</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">6</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: SÖZÜN İNCELİĞİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">YAZMA • Okuduğu şiiri bir betimleme paragrafı olarak yazabilme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE4.1. Edebî söyleyişin inceliğini yansıtmak için paragraf düzeyindeki bir yazısında süreci yönetebilme</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: SÖZÜN İNCELİĞİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">YAZMA • Okuduğu şiiri bir betimleme paragrafı olarak yazabilme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE4.2. Edebî söyleyişin inceliğini yansıtan metinlerden edindiği söz varlığını kullanarak yazısına içerik oluşturabilme</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: SÖZÜN İNCELİĞİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">YAZMA • Okuduğu şiiri bir betimleme paragrafı olarak yazabilme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE4.3. Edebî söyleyişin inceliğini yansıttığı yazısında kural uygulayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: SÖZÜN İNCELİĞİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">YAZMA • Okuduğu şiiri bir betimleme paragrafı olarak yazabilme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE4.4. Edebî söyleyişin inceliğini yansıttığı yazısında yazma sürecini değerlendirebilme</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Tema">2. TEMA: ANLAM ARAYIŞI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">OKUMA • Tema içeriğine uygun bir hikâye • Tema içeriğine uygun bir anı</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.1. “Anlam Arayışı” temasında ele alınan metinlerde okumayı yönetebilme</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">2. TEMA: ANLAM ARAYIŞI</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">OKUMA • Tema içeriğine uygun bir hikâye • Tema içeriğine uygun bir anı</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.2. “Anlam Arayışı” temasında ele alınan metinlerde anlam oluşturabilme</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">3</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">4</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">4</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">5</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="10. Sınıf" index="2" rowCount="22" colCount="9">
+    <Metadata>
+      <Info row="1">10. SINIF TÜRK DİLİ VE EDEBİYATI DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Tema"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır."/>
+      <Column index="5" excelColumn="E" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Tema">1. TEMA: SÖZÜN EZGİSİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">OKUMA • Tema içeriğine uygun bir koşuk • Ara Metin: Tema içeriğine uygun bir koşma • Tema içeriğine uygun bir türkü • Ara Metin: Tema içeriğine uygun bir ninni</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.1. “Sözün Ezgisi” temasında ele alınan metinlerde okumayı yönetebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: SÖZÜN EZGİSİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">OKUMA • Tema içeriğine uygun bir koşuk • Ara Metin: Tema içeriğine uygun bir koşma • Tema içeriğine uygun bir türkü • Ara Metin: Tema içeriğine uygun bir ninni</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.2. “Sözün Ezgisi” temasında ele alınan metinlerde anlam oluşturabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: SÖZÜN EZGİSİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">OKUMA • Tema içeriğine uygun bir koşuk • Ara Metin: Tema içeriğine uygun bir koşma • Tema içeriğine uygun bir türkü • Ara Metin: Tema içeriğine uygun bir ninni</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.3. “Sözün Ezgisi” temasında ele alınan metinleri çözümleyebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: SÖZÜN EZGİSİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">OKUMA • Tema içeriğine uygun bir koşuk • Ara Metin: Tema içeriğine uygun bir koşma • Tema içeriğine uygun bir türkü • Ara Metin: Tema içeriğine uygun bir ninni</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.4. “Sözün Ezgisi” temasında ele alınan metinlere yönelik okuma sürecini değerlendirebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: SÖZÜN EZGİSİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">YAZMA • Dinlediği masalı film şeridi hâline getirebilme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE4.1. Dinlediği/izlediği metni film şeridi hâline getireceği yazma sürecini yönetebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: SÖZÜN EZGİSİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">YAZMA • Dinlediği masalı film şeridi hâline getirebilme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE4.2. Dinlediği/izlediği metni film şeridi hâline getireceği yazısına içerik oluşturabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: SÖZÜN EZGİSİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">YAZMA • Dinlediği masalı film şeridi hâline getirebilme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE4.3. Film şeridi hâline getirdiği yazısını düzenlerken kural uygulayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: SÖZÜN EZGİSİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">YAZMA • Dinlediği masalı film şeridi hâline getirebilme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE4.4. Film şeridi hâline getirdiği yazısına yönelik yazma sürecini değerlendirebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Tema">2. TEMA: KELİMELERİN RİTMİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">OKUMA • Tema içeriğine uygun bir gazel • Ara Metin: Tema içeriğine uygun bir kaside • Tema içeriğine uygun bir şiir (Saf şiir)</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.1. “Kelimelerin Ritmi” temasında ele alınan metinlerde okumayı yönetebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">2. TEMA: KELİMELERİN RİTMİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">OKUMA • Tema içeriğine uygun bir gazel • Ara Metin: Tema içeriğine uygun bir kaside • Tema içeriğine uygun bir şiir (Saf şiir)</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.2. “Kelimelerin Ritmi” temasında ele alınan metinlerde anlam oluşturabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="11" excelRow="17">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">2. TEMA: KELİMELERİN RİTMİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">OKUMA • Tema içeriğine uygun bir gazel • Ara Metin: Tema içeriğine uygun bir kaside • Tema içeriğine uygun bir şiir (Saf şiir)</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.3. “Kelimelerin Ritmi” temasında ele alınan metinleri çözümleyebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="12" excelRow="18">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">2. TEMA: KELİMELERİN RİTMİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">OKUMA • Tema içeriğine uygun bir gazel • Ara Metin: Tema içeriğine uygun bir kaside • Tema içeriğine uygun bir şiir (Saf şiir)</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.4. “Kelimelerin Ritmi” temasında ele alınan metinlere yönelik okuma sürecini değerlendirebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="13" excelRow="19">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">2. TEMA: KELİMELERİN RİTMİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">YAZMA • Bilgilendirici bir metni edebî metne dönüştürebilme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE4.1. Bilgilendirici bir metni edebî metne dönüştüreceği yazma sürecini yönetebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="14" excelRow="20">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">2. TEMA: KELİMELERİN RİTMİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">YAZMA • Bilgilendirici bir metni edebî metne dönüştürebilme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE4.2. Bilgilendirici bir metni edebî metne dönüştüreceği yazısına içerik oluşturabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="15" excelRow="21">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">2. TEMA: KELİMELERİN RİTMİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">YAZMA • Bilgilendirici bir metni edebî metne dönüştürebilme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE4.3. Edebî metne dönüştürdüğü yazısında kural uygulayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="16" excelRow="22">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">2. TEMA: KELİMELERİN RİTMİ</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">YAZMA • Bilgilendirici bir metni edebî metne dönüştürebilme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE4.4. Edebî metne dönüştürdüğü yazısına yönelik yazma sürecini değerlendirebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 1. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="11. Sınıf" index="3" rowCount="19" colCount="11">
+    <Metadata>
+      <Info row="1">11. SINIF TÜRK DİLİ VE EDEBİYATI DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Tema"/>
+      <Column index="2" excelColumn="B" header="Konu (İçerik Çerçevesi)"/>
+      <Column index="3" excelColumn="C" header="Öğrenme Çıktıları"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Tema">1. TEMA: BİR DİYECEĞİM VAR!</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">OKUMA • Tema içeriğine uygun bir Karagöz oyunu • Tema içeriğine uygun bir mektup • Ara Metin: Tema içeriğine uygun bir dilekçe</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.1. “Bir Diyeceğim Var!” temasında ele alınan metinlerde okumayı yönetebilme</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: BİR DİYECEĞİM VAR!</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">OKUMA • Tema içeriğine uygun bir Karagöz oyunu • Tema içeriğine uygun bir mektup • Ara Metin: Tema içeriğine uygun bir dilekçe</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.2. “Bir Diyeceğim Var!” temasında ele alınan metinlerde anlam oluşturabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: BİR DİYECEĞİM VAR!</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">OKUMA • Tema içeriğine uygun bir Karagöz oyunu • Tema içeriğine uygun bir mektup • Ara Metin: Tema içeriğine uygun bir dilekçe</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.3. “Bir Diyeceğim Var!” temasında ele alınan metinleri çözümleyebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: BİR DİYECEĞİM VAR!</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">OKUMA • Tema içeriğine uygun bir Karagöz oyunu • Tema içeriğine uygun bir mektup • Ara Metin: Tema içeriğine uygun bir dilekçe</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.4. “Bir Diyeceğim Var!” temasında ele alınan metinlerden hareketle okuma sürecini değerlendirebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: BİR DİYECEĞİM VAR!</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">YAZMA • e-posta yazabilme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE4.1. Duygu, düşünce ve isteklerini etkili bir şekilde ileteceği yazısını yönetebilme</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: BİR DİYECEĞİM VAR!</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">YAZMA • e-posta yazabilme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE4.2. Günlük hayatta karşılaşılan durumlara ilişkin duygu ve düşüncelerini etkili kullanacağı yazısı için içerik oluşturabilme</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: BİR DİYECEĞİM VAR!</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">YAZMA • e-posta yazabilme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE4.3. Günlük hayatta karşılaşılan durumlara ilişkin duygu ve düşüncelerini etkili kullanacağı yazısı için kural uygulayabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">1. TEMA: BİR DİYECEĞİM VAR!</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">YAZMA • e-posta yazabilme</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE4.4. Günlük hayatta duygu, düşünce ve isteklerini ifade ettiği yazısında yazma sürecini değerlendirebilme</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Tema">2. TEMA: KÜLTÜR YOLCULUĞU</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)">OKUMA • Tema içeriğine uygun bir hikâye (Türk dünyası) • Ara Metin: Tema içeriğine uygun bir anı • Orhun Abideleri • Ara Metin: Dîvânu Lugâti’t-Türk</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.1. “Kültür Yolculuğu” temasında ele alınan metinlerde okumayı yönetebilme</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">2. TEMA: KÜLTÜR YOLCULUĞU</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">OKUMA • Tema içeriğine uygun bir hikâye (Türk dünyası) • Ara Metin: Tema içeriğine uygun bir anı • Orhun Abideleri • Ara Metin: Dîvânu Lugâti’t-Türk</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.2. “Kültür Yolculuğu” temasında ele alınan metinlerde anlam oluşturabilme</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="11" excelRow="17">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">2. TEMA: KÜLTÜR YOLCULUĞU</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">OKUMA • Tema içeriğine uygun bir hikâye (Türk dünyası) • Ara Metin: Tema içeriğine uygun bir anı • Orhun Abideleri • Ara Metin: Dîvânu Lugâti’t-Türk</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.3. “Kültür Yolculuğu” temasında ele alınan metinleri çözümleyebilme</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+      </Row>
+      <Row index="12" excelRow="18">
+        <Cell col="1" excelColumn="A" header="Tema" mergedFromAbove="true">2. TEMA: KÜLTÜR YOLCULUĞU</Cell>
+        <Cell col="2" excelColumn="B" header="Konu (İçerik Çerçevesi)" mergedFromAbove="true">OKUMA • Tema içeriğine uygun bir hikâye (Türk dünyası) • Ara Metin: Tema içeriğine uygun bir anı • Orhun Abideleri • Ara Metin: Dîvânu Lugâti’t-Türk</Cell>
+        <Cell col="3" excelColumn="C" header="Öğrenme Çıktıları">TDE2.4. “Kültür Yolculuğu” temasında ele alınan metinlerde okuma sürecini değerlendirebilme</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="13" excelRow="19">
+        <Cell col="7" excelColumn="G" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">6</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">5</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">5</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">7</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">8</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="12. Sınıf" index="4" rowCount="37" colCount="13">
+    <Metadata>
+      <Info row="1">12. SINIF TÜRK DİLİ VE EDEBİYATI DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+      <Info row="5">Ünite | Konu | Kazanımlar | 1. Dönem 1. Ortak Yazılı Sınav | 1. Dönem 2. Ortak Yazılı Sınav</Info>
+      <Info row="6">Senaryo 1 | Senaryo 2 | Senaryo 3 | Senaryo 4 | Senaryo 5</Info>
+      <Info row="7">1. ÜNİTE: GİRİŞ | OKUMA 1. Edebiyat ile düşünce akımları / felsefe arasındaki ilişki 2. Edebiyat ile psikoloji ve psikiyatri arasındaki ilişki 3. Dilin tarihî süreç içerisindeki değişimini etkileyen sebepler 4. İlk örneklerden günümüze Türkçenin önemli sözlükleri Dil Bilgisi Konuları: - Metinler üzerinden imla ve noktalama çalışmaları yapılır. - Kelimede anlam ile ilgili çalışmalar yapılır. | “Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde) | 1</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ"/>
+      <Column index="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir."/>
+      <Column index="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)"/>
+      <Column index="4" excelColumn="D" header="1"/>
+      <Column index="5" excelColumn="E" header="1"/>
+      <Column index="6" excelColumn="F" header="1"/>
+      <Column index="7" excelColumn="G"/>
+      <Column index="8" excelColumn="H"/>
+      <Column index="9" excelColumn="I"/>
+      <Column index="10" excelColumn="J"/>
+      <Column index="11" excelColumn="K" header="1"/>
+      <Column index="12" excelColumn="L" header="1"/>
+      <Column index="13" excelColumn="M" header="1"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="9">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ">2. ÜNİTE: HİKÂYE</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir.">OKUMA 1. 1960 sonrası dönemden dört hikâye örneği 2. Küçürek (minimal) hikâye örnekleri Dil Bilgisi Konuları: - Metinler üzerinden imla ve noktalama çalışmaları yapılır. - Metinler üzerinde kelimede anlam ile ilgili çalışmalar yapılır.</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.2.1. Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder.</Cell>
+        <Cell col="6" excelColumn="F" header="1">1</Cell>
+      </Row>
+      <Row index="2" excelRow="10">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">2. ÜNİTE: HİKÂYE</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. 1960 sonrası dönemden dört hikâye örneği 2. Küçürek (minimal) hikâye örnekleri Dil Bilgisi Konuları: - Metinler üzerinden imla ve noktalama çalışmaları yapılır. - Metinler üzerinde kelimede anlam ile ilgili çalışmalar yapılır.</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.2.2. Metnin türünün ortaya çıkışı ve tarihsel dönem ile ilişkisini belirler.</Cell>
+        <Cell col="8" excelColumn="H">1</Cell>
+      </Row>
+      <Row index="3" excelRow="11">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">2. ÜNİTE: HİKÂYE</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. 1960 sonrası dönemden dört hikâye örneği 2. Küçürek (minimal) hikâye örnekleri Dil Bilgisi Konuları: - Metinler üzerinden imla ve noktalama çalışmaları yapılır. - Metinler üzerinde kelimede anlam ile ilgili çalışmalar yapılır.</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.2.3. Metnin tema ve konusunu belirler.</Cell>
+        <Cell col="8" excelColumn="H">1</Cell>
+      </Row>
+      <Row index="4" excelRow="12">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">2. ÜNİTE: HİKÂYE</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. 1960 sonrası dönemden dört hikâye örneği 2. Küçürek (minimal) hikâye örnekleri Dil Bilgisi Konuları: - Metinler üzerinden imla ve noktalama çalışmaları yapılır. - Metinler üzerinde kelimede anlam ile ilgili çalışmalar yapılır.</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.2.4. Metindeki çatışmaları belirler.</Cell>
+        <Cell col="4" excelColumn="D" header="1">1</Cell>
+        <Cell col="13" excelColumn="M" header="1">1</Cell>
+      </Row>
+      <Row index="5" excelRow="13">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">2. ÜNİTE: HİKÂYE</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. 1960 sonrası dönemden dört hikâye örneği 2. Küçürek (minimal) hikâye örnekleri Dil Bilgisi Konuları: - Metinler üzerinden imla ve noktalama çalışmaları yapılır. - Metinler üzerinde kelimede anlam ile ilgili çalışmalar yapılır.</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.2.5. Metnin olay örgüsünü belirler.</Cell>
+      </Row>
+      <Row index="6" excelRow="14">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">2. ÜNİTE: HİKÂYE</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. 1960 sonrası dönemden dört hikâye örneği 2. Küçürek (minimal) hikâye örnekleri Dil Bilgisi Konuları: - Metinler üzerinden imla ve noktalama çalışmaları yapılır. - Metinler üzerinde kelimede anlam ile ilgili çalışmalar yapılır.</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.2.6. Metindeki şahıs kadrosunun özelliklerini belirler.</Cell>
+      </Row>
+      <Row index="7" excelRow="15">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">2. ÜNİTE: HİKÂYE</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. 1960 sonrası dönemden dört hikâye örneği 2. Küçürek (minimal) hikâye örnekleri Dil Bilgisi Konuları: - Metinler üzerinden imla ve noktalama çalışmaları yapılır. - Metinler üzerinde kelimede anlam ile ilgili çalışmalar yapılır.</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.2.7. Metindeki zaman ve mekânın özelliklerini belirler.</Cell>
+        <Cell col="4" excelColumn="D" header="1">1</Cell>
+      </Row>
+      <Row index="8" excelRow="16">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">2. ÜNİTE: HİKÂYE</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. 1960 sonrası dönemden dört hikâye örneği 2. Küçürek (minimal) hikâye örnekleri Dil Bilgisi Konuları: - Metinler üzerinden imla ve noktalama çalışmaları yapılır. - Metinler üzerinde kelimede anlam ile ilgili çalışmalar yapılır.</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.2.8. Metinde anlatıcı ve bakış açısının işlevini belirler.</Cell>
+        <Cell col="6" excelColumn="F" header="1">1</Cell>
+        <Cell col="12" excelColumn="L" header="1">1</Cell>
+      </Row>
+      <Row index="9" excelRow="17">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">2. ÜNİTE: HİKÂYE</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. 1960 sonrası dönemden dört hikâye örneği 2. Küçürek (minimal) hikâye örnekleri Dil Bilgisi Konuları: - Metinler üzerinden imla ve noktalama çalışmaları yapılır. - Metinler üzerinde kelimede anlam ile ilgili çalışmalar yapılır.</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.2.9. Metindeki anlatım biçimleri ve tekniklerinin işlevlerini belirler.</Cell>
+        <Cell col="5" excelColumn="E" header="1">1</Cell>
+        <Cell col="7" excelColumn="G">1</Cell>
+        <Cell col="11" excelColumn="K" header="1">1</Cell>
+      </Row>
+      <Row index="10" excelRow="18">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">2. ÜNİTE: HİKÂYE</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. 1960 sonrası dönemden dört hikâye örneği 2. Küçürek (minimal) hikâye örnekleri Dil Bilgisi Konuları: - Metinler üzerinden imla ve noktalama çalışmaları yapılır. - Metinler üzerinde kelimede anlam ile ilgili çalışmalar yapılır.</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.2.10. Metnin üslup özelliklerini belirler.</Cell>
+        <Cell col="5" excelColumn="E" header="1">1</Cell>
+        <Cell col="7" excelColumn="G">1</Cell>
+      </Row>
+      <Row index="11" excelRow="19">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">2. ÜNİTE: HİKÂYE</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. 1960 sonrası dönemden dört hikâye örneği 2. Küçürek (minimal) hikâye örnekleri Dil Bilgisi Konuları: - Metinler üzerinden imla ve noktalama çalışmaları yapılır. - Metinler üzerinde kelimede anlam ile ilgili çalışmalar yapılır.</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.2.11. Metinde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler.</Cell>
+        <Cell col="6" excelColumn="F" header="1">1</Cell>
+        <Cell col="8" excelColumn="H">1</Cell>
+      </Row>
+      <Row index="12" excelRow="20">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">2. ÜNİTE: HİKÂYE</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. 1960 sonrası dönemden dört hikâye örneği 2. Küçürek (minimal) hikâye örnekleri Dil Bilgisi Konuları: - Metinler üzerinden imla ve noktalama çalışmaları yapılır. - Metinler üzerinde kelimede anlam ile ilgili çalışmalar yapılır.</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.2.12. Metinde edebiyat, sanat ve fikir akımlarının/anlayışlarının yansımalarını değerlendirir.</Cell>
+      </Row>
+      <Row index="13" excelRow="21">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">2. ÜNİTE: HİKÂYE</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. 1960 sonrası dönemden dört hikâye örneği 2. Küçürek (minimal) hikâye örnekleri Dil Bilgisi Konuları: - Metinler üzerinden imla ve noktalama çalışmaları yapılır. - Metinler üzerinde kelimede anlam ile ilgili çalışmalar yapılır.</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.2.13. Metni yorumlar.</Cell>
+        <Cell col="5" excelColumn="E" header="1">1</Cell>
+        <Cell col="7" excelColumn="G">1</Cell>
+      </Row>
+      <Row index="14" excelRow="22">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">2. ÜNİTE: HİKÂYE</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. 1960 sonrası dönemden dört hikâye örneği 2. Küçürek (minimal) hikâye örnekleri Dil Bilgisi Konuları: - Metinler üzerinden imla ve noktalama çalışmaları yapılır. - Metinler üzerinde kelimede anlam ile ilgili çalışmalar yapılır.</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.2.14. Yazar ile metin arasındaki ilişkiyi değerlendir.</Cell>
+        <Cell col="4" excelColumn="D" header="1">1</Cell>
+      </Row>
+      <Row index="15" excelRow="23">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">2. ÜNİTE: HİKÂYE</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. 1960 sonrası dönemden dört hikâye örneği 2. Küçürek (minimal) hikâye örnekleri Dil Bilgisi Konuları: - Metinler üzerinden imla ve noktalama çalışmaları yapılır. - Metinler üzerinde kelimede anlam ile ilgili çalışmalar yapılır.</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.2.15. Türün ve dönemin/akımın diğer önemli yazarlarını ve eserlerini sıralar.</Cell>
+        <Cell col="8" excelColumn="H">1</Cell>
+      </Row>
+      <Row index="16" excelRow="24">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">2. ÜNİTE: HİKÂYE</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. 1960 sonrası dönemden dört hikâye örneği 2. Küçürek (minimal) hikâye örnekleri Dil Bilgisi Konuları: - Metinler üzerinden imla ve noktalama çalışmaları yapılır. - Metinler üzerinde kelimede anlam ile ilgili çalışmalar yapılır.</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.2.16. Metinlerden hareketle dil bilgisi çalışmaları yapar.</Cell>
+        <Cell col="4" excelColumn="D" header="1">1</Cell>
+        <Cell col="5" excelColumn="E" header="1">1</Cell>
+        <Cell col="6" excelColumn="F" header="1">1</Cell>
+        <Cell col="7" excelColumn="G">1</Cell>
+        <Cell col="8" excelColumn="H">1</Cell>
+        <Cell col="9" excelColumn="I">1</Cell>
+        <Cell col="10" excelColumn="J">1</Cell>
+        <Cell col="11" excelColumn="K" header="1">1</Cell>
+        <Cell col="12" excelColumn="L" header="1">1</Cell>
+        <Cell col="13" excelColumn="M" header="1">1</Cell>
+      </Row>
+      <Row index="17" excelRow="25">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">2. ÜNİTE: HİKÂYE</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir.">YAZMA - Öğrencilerden inceledikleri hikâyelerde bulunan tekniklerden en az ikisini kullanarak bir hikâye yazmaları istenir. - Öğrencilerden küçürek hikâye yazmaları istenir.</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">B.1-B.12 kazanım ve açıklamaları için bk. EK 5</Cell>
+        <Cell col="7" excelColumn="G">1</Cell>
+        <Cell col="8" excelColumn="H">1</Cell>
+        <Cell col="9" excelColumn="I">1</Cell>
+        <Cell col="10" excelColumn="J">1</Cell>
+      </Row>
+      <Row index="18" excelRow="26">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ">3. ÜNİTE: ŞİİR</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir.">OKUMA 1. Cumhuriyet Dönemi saf şiir anlayışından üç şiir örneği 2. Cumhuriyet Dönemi’nden (1923-1960) toplumcu eğilimleri yansıtan iki şiir örneği 3. Millî Edebiyat anlayışını yansıtan iki şiir örneği 4. Garip akımından iki şiir örneği 5. İkinci Yeni’den iki şiir örneği 6. Dinî değerleri, geleneğe duyarlığı ve metafizik anlayışı öne çıkaran modern şairlerden iki şiir örneği 7. 1960 sonrası toplumcu eğilimleri yansıtan bir şiir örneği 8. 1980 sonrası Türk şiirinden iki örnek</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.1.1. Metinde geçen kelime ve kelime gruplarının anlamlarını tespit eder.</Cell>
+        <Cell col="12" excelColumn="L" header="1">1</Cell>
+        <Cell col="13" excelColumn="M" header="1">1</Cell>
+      </Row>
+      <Row index="19" excelRow="27">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">3. ÜNİTE: ŞİİR</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. Cumhuriyet Dönemi saf şiir anlayışından üç şiir örneği 2. Cumhuriyet Dönemi’nden (1923-1960) toplumcu eğilimleri yansıtan iki şiir örneği 3. Millî Edebiyat anlayışını yansıtan iki şiir örneği 4. Garip akımından iki şiir örneği 5. İkinci Yeni’den iki şiir örneği 6. Dinî değerleri, geleneğe duyarlığı ve metafizik anlayışı öne çıkaran modern şairlerden iki şiir örneği 7. 1960 sonrası toplumcu eğilimleri yansıtan bir şiir örneği 8. 1980 sonrası Türk şiirinden iki örnek</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.1.2. Şiirin temasını belirler.</Cell>
+        <Cell col="11" excelColumn="K" header="1">1</Cell>
+        <Cell col="12" excelColumn="L" header="1">1</Cell>
+        <Cell col="13" excelColumn="M" header="1">1</Cell>
+      </Row>
+      <Row index="20" excelRow="28">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">3. ÜNİTE: ŞİİR</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. Cumhuriyet Dönemi saf şiir anlayışından üç şiir örneği 2. Cumhuriyet Dönemi’nden (1923-1960) toplumcu eğilimleri yansıtan iki şiir örneği 3. Millî Edebiyat anlayışını yansıtan iki şiir örneği 4. Garip akımından iki şiir örneği 5. İkinci Yeni’den iki şiir örneği 6. Dinî değerleri, geleneğe duyarlığı ve metafizik anlayışı öne çıkaran modern şairlerden iki şiir örneği 7. 1960 sonrası toplumcu eğilimleri yansıtan bir şiir örneği 8. 1980 sonrası Türk şiirinden iki örnek</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.1.3. Şiirde ahengi sağlayan özellikleri/unsurları belirler.</Cell>
+        <Cell col="9" excelColumn="I">1</Cell>
+        <Cell col="12" excelColumn="L" header="1">1</Cell>
+      </Row>
+      <Row index="21" excelRow="29">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">3. ÜNİTE: ŞİİR</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. Cumhuriyet Dönemi saf şiir anlayışından üç şiir örneği 2. Cumhuriyet Dönemi’nden (1923-1960) toplumcu eğilimleri yansıtan iki şiir örneği 3. Millî Edebiyat anlayışını yansıtan iki şiir örneği 4. Garip akımından iki şiir örneği 5. İkinci Yeni’den iki şiir örneği 6. Dinî değerleri, geleneğe duyarlığı ve metafizik anlayışı öne çıkaran modern şairlerden iki şiir örneği 7. 1960 sonrası toplumcu eğilimleri yansıtan bir şiir örneği 8. 1980 sonrası Türk şiirinden iki örnek</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.1.4. Şiirin nazım biçimini ve nazım türünü tespit eder.</Cell>
+        <Cell col="10" excelColumn="J">1</Cell>
+        <Cell col="11" excelColumn="K" header="1">1</Cell>
+      </Row>
+      <Row index="22" excelRow="30">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">3. ÜNİTE: ŞİİR</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. Cumhuriyet Dönemi saf şiir anlayışından üç şiir örneği 2. Cumhuriyet Dönemi’nden (1923-1960) toplumcu eğilimleri yansıtan iki şiir örneği 3. Millî Edebiyat anlayışını yansıtan iki şiir örneği 4. Garip akımından iki şiir örneği 5. İkinci Yeni’den iki şiir örneği 6. Dinî değerleri, geleneğe duyarlığı ve metafizik anlayışı öne çıkaran modern şairlerden iki şiir örneği 7. 1960 sonrası toplumcu eğilimleri yansıtan bir şiir örneği 8. 1980 sonrası Türk şiirinden iki örnek</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.1.5. Şiirdeki mazmun, imge ve edebî sanatları belirleyerek bunların anlama katkısını değerlendirir.</Cell>
+        <Cell col="9" excelColumn="I">1</Cell>
+        <Cell col="13" excelColumn="M" header="1">1</Cell>
+      </Row>
+      <Row index="23" excelRow="31">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">3. ÜNİTE: ŞİİR</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. Cumhuriyet Dönemi saf şiir anlayışından üç şiir örneği 2. Cumhuriyet Dönemi’nden (1923-1960) toplumcu eğilimleri yansıtan iki şiir örneği 3. Millî Edebiyat anlayışını yansıtan iki şiir örneği 4. Garip akımından iki şiir örneği 5. İkinci Yeni’den iki şiir örneği 6. Dinî değerleri, geleneğe duyarlığı ve metafizik anlayışı öne çıkaran modern şairlerden iki şiir örneği 7. 1960 sonrası toplumcu eğilimleri yansıtan bir şiir örneği 8. 1980 sonrası Türk şiirinden iki örnek</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.1.6. Şiirde söyleyici ile hitap edilen kişi/varlık arasındaki ilişkiyi belirler.</Cell>
+      </Row>
+      <Row index="24" excelRow="32">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">3. ÜNİTE: ŞİİR</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. Cumhuriyet Dönemi saf şiir anlayışından üç şiir örneği 2. Cumhuriyet Dönemi’nden (1923-1960) toplumcu eğilimleri yansıtan iki şiir örneği 3. Millî Edebiyat anlayışını yansıtan iki şiir örneği 4. Garip akımından iki şiir örneği 5. İkinci Yeni’den iki şiir örneği 6. Dinî değerleri, geleneğe duyarlığı ve metafizik anlayışı öne çıkaran modern şairlerden iki şiir örneği 7. 1960 sonrası toplumcu eğilimleri yansıtan bir şiir örneği 8. 1980 sonrası Türk şiirinden iki örnek</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.1.7. Şiirde millî, manevi ve evrensel değerler ile sosyal, siyasi, tarihî ve mitolojik ögeleri belirler.</Cell>
+        <Cell col="11" excelColumn="K" header="1">1</Cell>
+        <Cell col="12" excelColumn="L" header="1">1</Cell>
+        <Cell col="13" excelColumn="M" header="1">1</Cell>
+      </Row>
+      <Row index="25" excelRow="33">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">3. ÜNİTE: ŞİİR</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. Cumhuriyet Dönemi saf şiir anlayışından üç şiir örneği 2. Cumhuriyet Dönemi’nden (1923-1960) toplumcu eğilimleri yansıtan iki şiir örneği 3. Millî Edebiyat anlayışını yansıtan iki şiir örneği 4. Garip akımından iki şiir örneği 5. İkinci Yeni’den iki şiir örneği 6. Dinî değerleri, geleneğe duyarlığı ve metafizik anlayışı öne çıkaran modern şairlerden iki şiir örneği 7. 1960 sonrası toplumcu eğilimleri yansıtan bir şiir örneği 8. 1980 sonrası Türk şiirinden iki örnek</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.1.8. Şiirde edebiyat, sanat ve fikir akımlarının/anlayışlarının yansımalarını değerlendirir.</Cell>
+        <Cell col="9" excelColumn="I">1</Cell>
+      </Row>
+      <Row index="26" excelRow="34">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">3. ÜNİTE: ŞİİR</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. Cumhuriyet Dönemi saf şiir anlayışından üç şiir örneği 2. Cumhuriyet Dönemi’nden (1923-1960) toplumcu eğilimleri yansıtan iki şiir örneği 3. Millî Edebiyat anlayışını yansıtan iki şiir örneği 4. Garip akımından iki şiir örneği 5. İkinci Yeni’den iki şiir örneği 6. Dinî değerleri, geleneğe duyarlığı ve metafizik anlayışı öne çıkaran modern şairlerden iki şiir örneği 7. 1960 sonrası toplumcu eğilimleri yansıtan bir şiir örneği 8. 1980 sonrası Türk şiirinden iki örnek</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.1.9. Şiiri yorumlar.</Cell>
+        <Cell col="10" excelColumn="J">1</Cell>
+        <Cell col="11" excelColumn="K" header="1">1</Cell>
+      </Row>
+      <Row index="27" excelRow="35">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">3. ÜNİTE: ŞİİR</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. Cumhuriyet Dönemi saf şiir anlayışından üç şiir örneği 2. Cumhuriyet Dönemi’nden (1923-1960) toplumcu eğilimleri yansıtan iki şiir örneği 3. Millî Edebiyat anlayışını yansıtan iki şiir örneği 4. Garip akımından iki şiir örneği 5. İkinci Yeni’den iki şiir örneği 6. Dinî değerleri, geleneğe duyarlığı ve metafizik anlayışı öne çıkaran modern şairlerden iki şiir örneği 7. 1960 sonrası toplumcu eğilimleri yansıtan bir şiir örneği 8. 1980 sonrası Türk şiirinden iki örnek</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.1.10. Şair ile şiir arasındaki ilişkiyi değerlendirir.</Cell>
+        <Cell col="10" excelColumn="J">1</Cell>
+      </Row>
+      <Row index="28" excelRow="36">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">3. ÜNİTE: ŞİİR</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. Cumhuriyet Dönemi saf şiir anlayışından üç şiir örneği 2. Cumhuriyet Dönemi’nden (1923-1960) toplumcu eğilimleri yansıtan iki şiir örneği 3. Millî Edebiyat anlayışını yansıtan iki şiir örneği 4. Garip akımından iki şiir örneği 5. İkinci Yeni’den iki şiir örneği 6. Dinî değerleri, geleneğe duyarlığı ve metafizik anlayışı öne çıkaran modern şairlerden iki şiir örneği 7. 1960 sonrası toplumcu eğilimleri yansıtan bir şiir örneği 8. 1980 sonrası Türk şiirinden iki örnek</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.1.11. Türün/biçimin ve dönemin/akımın diğer önemli yazarlarını ve eserlerini sıralar.</Cell>
+        <Cell col="12" excelColumn="L" header="1">1</Cell>
+        <Cell col="13" excelColumn="M" header="1">1</Cell>
+      </Row>
+      <Row index="29" excelRow="37">
+        <Cell col="1" excelColumn="A" header="1. ÜNİTE: GİRİŞ" mergedFromAbove="true">3. ÜNİTE: ŞİİR</Cell>
+        <Cell col="2" excelColumn="B" header="YAZMA - Öğrencilerden toplumsal değişim, teknoloji ve sosyal medyanın dili nasıl etkilediği hakkında bir yazı yazmaları istenir." mergedFromAbove="true">OKUMA 1. Cumhuriyet Dönemi saf şiir anlayışından üç şiir örneği 2. Cumhuriyet Dönemi’nden (1923-1960) toplumcu eğilimleri yansıtan iki şiir örneği 3. Millî Edebiyat anlayışını yansıtan iki şiir örneği 4. Garip akımından iki şiir örneği 5. İkinci Yeni’den iki şiir örneği 6. Dinî değerleri, geleneğe duyarlığı ve metafizik anlayışı öne çıkaran modern şairlerden iki şiir örneği 7. 1960 sonrası toplumcu eğilimleri yansıtan bir şiir örneği 8. 1980 sonrası Türk şiirinden iki örnek</Cell>
+        <Cell col="3" excelColumn="C" header="“Giriş” üniteleri ünite tablosunda belirtilen kendi konuları çerçevesinde ele alınacaktır. (bk. Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018 sayfa 13, 2. madde)">A.1.13. Metinler arası karşılaştırmalar yapar.</Cell>
+        <Cell col="9" excelColumn="I">1</Cell>
+        <Cell col="10" excelColumn="J">1</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="EK 5" index="5" rowCount="1" colCount="1">
+    <Metadata/>
+    <Columns>
+      <Column index="1" excelColumn="A" header="EK 5 (EK 5, MEB Ortaöğretim Türk Dili ve Edebiyatı Dersi Öğretim Programı 2018, s. 26-27’de yer alan yazma kazanımlarını içermektedir.) B) YAZMA B.1. Farklı türlerde metinler yazar. a. “Ünite, Süre ve İçerikleri “tablosunda belirtilen türlerde yazma çalışmaları yaptırılır. b. İşlenen metinden hareketle farklı türlerde yazma çalışmalarına da yer verilir. B.2. Yazacağı metnin türüne göre konu, tema, ana düşünce, amaç ve hedef kitleyi belirler. B.3. Yazma konusuyla ilgili hazırlık yapar. a. Konuyla ilgili okuma ve araştırma yaptırılır. b. Yazısında kullanacağı bilgi, gözlem, düşünce, duygu, izlenim ve deneyimleriyle ilgili notlar çıkarması ve görsel, işitsel dokümanlar bulması veya hazırlaması sağlanır. c. Araştırma, kaynaklara ulaşma, Genel Ağ’ı doğru ve etkin kullanma, not alma ve özetleme teknikleri üzerinde durulur. ç. Kaynak kullanma ve alıntı yapmanın hukuki ve etik boyutları belirtilir. d. Konuyu sınırlamanın önemine değinilir. B.4. Yazacağı metni planlar. B.5. Metin türüne özgü yapı özelliklerine uygun yazar. a. Metnin türüne göre birimlere, paragraflara, bölümlemelere, giriş-gelişme-sonuç/serim-düğüm-çözüm aşamalarına ve olay örgüsüne dikkat çekilir. b. Başlığı belirlemesi ve gerekirse alt başlık/bölüm başlığı ve epigraf kullanması sağlanır. c. Araştırmaya ve ispatlamaya dayalı metinlerde kaynak ve dipnot gösterme şekline karar vermesi sağlanır. B.6. Metin türüne özgü dil ve anlatım özelliklerine uygun yazar. a. Türle ilgili okuma kazanımlarında ifade edilen anlatım teknikleri, anlatım biçimleri/türleri ve düşünceyi geliştirme yollarından uygun olanlarını kullanması sağlanır. b. Şiirde ahenk unsurlarını, imge ve söz sanatlarını kullanması sağlanır. c. Metnin türüne göre terim, kavram, deyim, atasözü, ağız özellikleri kullanır. B.7. İyi bir anlatımda bulunması gereken özelliklere dikkat ederek yazar. İyi bir anlatımın açıklık, akıcılık, duruluk ve yalınlık gibi özellikler taşıması gerektiği hatırlatılır. B.8. Farklı cümle yapılarını ve türlerini kullanır. Bir yazıda basit, birleşik, sıralı, bağlı, eksiltili, devrik, kurallı cümle; isim cümlesi ve fiil cümlesi şeklinde farklı cümle yapıları/türlerinin kullanılmasının metne katkısı vurgulanır. B.9. Görsel ve işitsel unsurları doğru ve etkili kullanır. Metnin türüne göre resim, fotoğraf, grafik, çizim, veri tabloları, ses ve görüntü kayıtları vb. unsurları, metni tamamlayıcı ve/veya destekleyici unsurlar olarak kullanır. B.10. Yazdığı metni gözden geçirir. a. Dil bilgisi, yazım ve noktalama bakımından gözden geçirmesi sağlanır. b. Açıklık, duruluk, akıcılık, yalınlık ve kelime tercihleri bakımından gözden geçirmesi sağlanır. c. Birimler, paragraflar, bölümler, olay örgüsü/kurgu ve başlık gibi yapı ve şekil unsurları arasındaki anlam bağlantıları, tutarlılık, denge ve akış bakımından gözden geçirmesi sağlanır. ç. Metnin içeriğini ve üslubunu/anlatımını tür özellikleri bakımından gözden geçirmesi sağlanır. d. Yazısının okunaklılığını ve sayfa düzenini gözden geçirmesi sağlanır. B.11. Ürettiği ve paylaştığı metinlerin sorumluluğunu üstlenir. Üretilen ve paylaşılan metinlerin hukuki, ahlaki ve mesleki sorumluluğunun bilincinde hareket edilmesi gerektiği vurgulanır. B.12. Yazdığı metni başkalarıyla paylaşır. a. Yüksek sesle okuma, panoda sergileme; elektronik ortamlarda, kitap, dergi ve gazetelerde yayımlama, yarışmalara katılma gibi yollarla yazılan metinlerin paylaşılması sağlanır. b. Eleştirilere açık olma, gerekirse metin çerçevesinde eleştirilerin cevaplanması sağlanır."/>
+    </Columns>
+    <Rows/>
+  </Worksheet>
+</Workbook>

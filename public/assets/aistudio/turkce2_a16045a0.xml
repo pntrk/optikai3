@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Workbook sourceFile="turkce2.xlsx" sheetCount="4">
+  <Worksheet name="5. Sınıf" index="1" rowCount="33" colCount="15">
+    <Metadata>
+      <Info row="1">5. SINIF TÜRKÇE DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Alan Becerileri"/>
+      <Column index="2" excelColumn="B" header="Öğrenme Çıktıları"/>
+      <Column index="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6"/>
+      <Column index="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.5.1. Okumada materyal seçimini yönetebilme</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.5.2. Akıcı okuyabilme</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.5.3. Okumada strateji, yöntem ve teknik seçimlerini yönetebilme</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.5.4. Okuyacağı metnin içeriğine yönelik tahminde bulunabilme</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.5.5. Metinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.5.6. Metnin yüzey anlamını belirleyebilme</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.5.7. Görselle iletilen anlamı belirleyebilme</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.5.11. Metindeki unsurları sınıflandırabilme</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.5.13. Öyküleyici metinde hikâye unsurlarını belirlemeye yönelik çözümleme yapabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.5.15. Metnin anahtar kelimelerini belirlemeye yönelik çözümleme yapabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+      <Row index="11" excelRow="17">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.5.16. Metnin bölümlerini belirlemeye yönelik çözümleme yapabilme</Cell>
+      </Row>
+      <Row index="12" excelRow="18">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.5.17. Şiirin biçim özelliklerini belirlemeye yönelik çözümleme yapabilme</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="13" excelRow="19">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.5.18. Bilgilendirici metinde düşünceyi geliştirme yollarını belirlemeye yönelik çözümleme yapabilme</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="14" excelRow="20">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.5.19. Metindeki söz sanatlarını belirlemeye yönelik çözümleme yapabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="15" excelRow="21">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.5.20. Metinden hareketle söz varlığını geliştirmeye yönelik çözümleme yapabilme</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="16" excelRow="22">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.5.22. Okuma sürecini değerlendirebilme</Cell>
+      </Row>
+      <Row index="17" excelRow="23">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.5.1. Yazma sürecini yönetebilme</Cell>
+      </Row>
+      <Row index="18" excelRow="24">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.5.2. Yazmada strateji, yöntem ve tekniklerine yönelik seçimlerini yönetebilme</Cell>
+      </Row>
+      <Row index="19" excelRow="25">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.5.3. Yazısında içerik ve yapıya yönelik seçimlerini yönetebilme</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="20" excelRow="26">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.5.4. Yazısında çoklu ortam ögeleriyle içerik oluşturabilme</Cell>
+      </Row>
+      <Row index="21" excelRow="27">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.5.5. Yaratıcı yazı yazabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="22" excelRow="28">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.5.6. Yazılı üretim ve yazılı etkileşiminde tahminlerinden yararlanabilme</Cell>
+      </Row>
+      <Row index="23" excelRow="29">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.5.8. Yazısında sınıflandırma yapabilme</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="24" excelRow="30">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.5.13. Yazısını zenginleştirecek biçimde söz varlığını kullanabilme</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="25" excelRow="31">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.5.15. Uygun bağlantı ifadelerini kullanabilme</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="26" excelRow="32">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.5.16. Yazım ve noktalama işaretleriyle ilgili kuralları uygulayabilme</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="27" excelRow="33">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.5.17. Yazma sürecini değerlendirebilme</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="6. SINIF" index="2" rowCount="38" colCount="15">
+    <Metadata>
+      <Info row="1">6. SINIF TÜRKÇE DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Alan Becerileri"/>
+      <Column index="2" excelColumn="B" header="Öğrenme Çıktıları"/>
+      <Column index="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6"/>
+      <Column index="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.1. Okumada materyal seçimini yönetebilme</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.2. Sesli ve sessiz okurken akıcı okuma unsurlarını yönetebilme</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.3. Okumada strateji ve yöntem seçimlerini yönetebilme</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.4. Okuyacağı metnin içeriğine yönelik tahminde bulunabilme</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.5. Metinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.6. Metnin yüzey anlamını belirleyebilme</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">2</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">2</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.7. Görselle iletilen anlamı belirleyebilme</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.8. Metnin derin anlamını belirlemeye yönelik basit çıkarımlar yapabilme</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.9. Metnin derin anlamını belirlemeye yönelik üst düzey çıkarımlar yapabilme</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.10. Metin içi karşılaştırma yapabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="11" excelRow="17">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.11. Metinler arası karşılaştırma yapabilme</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="12" excelRow="18">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.12. Metindeki unsurları sınıflandırabilme</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="13" excelRow="19">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.16. Bilgilendirici metinde anahtar kelimeleri belirlemeye yönelik çözümleme yapabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="14" excelRow="20">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.17. Metnin bölümlerini belirlemeye yönelik çözümleme yapabilme</Cell>
+      </Row>
+      <Row index="15" excelRow="21">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.18. Şiirin biçim özelliklerini belirlemeye yönelik çözümleme yapabilme</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="16" excelRow="22">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.19. Bilgilendirici metinde düşünceyi geliştirme yollarını belirlemeye yönelik çözümleme yapabilme</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="17" excelRow="23">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.21. Metinden hareketle söz varlığını geliştirmeye yönelik çözümleme yapabilme</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="18" excelRow="24">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.23. Okuduğunu özetleyebilme</Cell>
+      </Row>
+      <Row index="19" excelRow="25">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.6.27. Okuma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme</Cell>
+      </Row>
+      <Row index="20" excelRow="26">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.6.1. Yazma sürecini yönetebilme</Cell>
+      </Row>
+      <Row index="21" excelRow="27">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.6.2. Yazma strateji, yöntem ve tekniklerine yönelik seçimlerini yönetebilme</Cell>
+      </Row>
+      <Row index="22" excelRow="28">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.6.3. Yazısında içerik ve yapıya yönelik seçimlerini yönetebilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="23" excelRow="29">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.6.4. Yazılı üretim ve yazılı etkileşiminde ön bilgilerinden yararlanabilme</Cell>
+      </Row>
+      <Row index="24" excelRow="30">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.6.5. Yazılı etkileşiminde uygun tepki verebilme</Cell>
+      </Row>
+      <Row index="25" excelRow="31">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.6.7. Yaratıcı yazı yazabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="26" excelRow="32">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.6.9. Yazısında karşılaştırma yapabilme</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="27" excelRow="33">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.6.10. Yazısında sınıflandırma yapabilme</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="28" excelRow="34">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.6.11. Yorumunu yazılı olarak ifade edebilme</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="29" excelRow="35">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.6.17. Yazısında düşünceyi geliştirme yollarını kullanabilme</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="30" excelRow="36">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.6.18. Yazısını zenginleştirecek biçimde söz varlığını kullanabilme</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="31" excelRow="37">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.6.21. Yazım kuralları ve noktalama işaretlerini uygulayabilme</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="32" excelRow="38">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.6.22. Yazma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="7. SINIF" index="3" rowCount="23" colCount="9">
+    <Metadata>
+      <Info row="1">7. SINIF TÜRKÇE DERSİ</Info>
+      <Info row="2">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="3">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Alan Becerileri"/>
+      <Column index="2" excelColumn="B" header="Öğrenme Çıktıları"/>
+      <Column index="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır."/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="7">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.7.1. Okumada materyal seçimini yönetebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="2" excelRow="8">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.7.2. Okumada strateji ve yöntem seçimlerini yönetebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="3" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.7.3. Okuyacağı metnin içeriğine yönelik tahminde bulunabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="4" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.7.4. Metinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="5" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.7.5. Metnin yüzey anlamını belirleyebilme</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">2</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">2</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">2</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">2</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="6" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.7.7. Metnin derin anlamını belirlemeye yönelik basit çıkarımlar yapabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="7" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.7.8. Metnin derin anlamını belirlemeye yönelik üst düzey çıkarımlar yapabilme</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="8" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.7.14. Bilgilendirici metinlerde metin yapılarından hareketle önemli bilgileri belirlemeye yönelik çözümleme yapabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="9" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.7.15. Bilgilendirici metinde anahtar kelimeleri belirlemeye yönelik çözümleme yapabilme</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="10" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.7.21. Metinden hareketle söz varlığını geliştirmeye yönelik çözümleme yapabilme</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="11" excelRow="17">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.O.7.28. Okuma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="12" excelRow="18">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.7.1. Yazma sürecini yönetebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="13" excelRow="19">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.7.2. Yazma strateji, yöntem ve tekniklerine yönelik seçimlerini yönetebilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="14" excelRow="20">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.7.3. Yazısında içerik ve yapıya yönelik seçimlerini yönetebilme</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="15" excelRow="21">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.7.18. Yazısını zenginleştirecek biçimde söz varlığını kullanabilme</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="16" excelRow="22">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.7.21. Yazım kuralları ve noktalama işaretlerini uygulayabilme</Cell>
+        <Cell col="3" excelColumn="C" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+      <Row index="17" excelRow="23">
+        <Cell col="1" excelColumn="A" header="Alan Becerileri" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Öğrenme Çıktıları">T.Y.7.22. Yazma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 2. Ortak Yazılı Sınav" header="1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır." mergedFromAbove="true">1. Dönem 2. Ortak Yazılı Sınav Ülke Geneli Ortak Yazılı Sınav şeklinde yapılacaktır. Konu Soru Dağılım Tablosu sınav öncesi kılavuz ile birlikte yayımlanacaktır.</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+  <Worksheet name="8. SINIF" index="4" rowCount="61" colCount="17">
+    <Metadata>
+      <Info row="2">8. SINIF TÜRKÇE DERSİ</Info>
+      <Info row="3">1. DÖNEM ORTAK YAZILI SINAVLAR</Info>
+      <Info row="4">KONU SORU DAĞILIM TABLOSU</Info>
+    </Metadata>
+    <Columns>
+      <Column index="1" excelColumn="A" header="Öğrenme Alanı"/>
+      <Column index="2" excelColumn="B" header="Alt Öğrenme Alanı"/>
+      <Column index="3" excelColumn="C" header="Kazanımlar"/>
+      <Column index="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6"/>
+      <Column index="10" excelColumn="J" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 7"/>
+      <Column index="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1"/>
+      <Column index="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2"/>
+      <Column index="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3"/>
+      <Column index="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4"/>
+      <Column index="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5"/>
+      <Column index="16" excelColumn="P" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6"/>
+      <Column index="17" excelColumn="Q" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7"/>
+    </Columns>
+    <Rows>
+      <Row index="1" excelRow="9">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı">Söz Varlığı</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.1. Noktalama işaretlerine dikkat ederek sesli ve sessiz okur.</Cell>
+      </Row>
+      <Row index="2" excelRow="10">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Söz Varlığı</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.2. Metni türün özelliklerine uygun biçimde okur.</Cell>
+      </Row>
+      <Row index="3" excelRow="11">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Söz Varlığı</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.3. Farklı yazı karakterleri ile yazılmış yazıları okur.</Cell>
+      </Row>
+      <Row index="4" excelRow="12">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Söz Varlığı</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.4. Okuma stratejilerini kullanır.</Cell>
+      </Row>
+      <Row index="5" excelRow="13">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Söz Varlığı</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.5. Bağlamdan yararlanarak bilmediği kelime ve kelime gruplarının anlamını tahmin eder.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="16" excelColumn="P" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="6" excelRow="14">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Söz Varlığı</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.6. Deyim, atasözü ve özdeyişlerin metne katkısını belirler.</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="7" excelRow="15">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Söz Varlığı</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.7. Metindeki söz sanatlarını tespit eder.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="17" excelColumn="Q" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="8" excelRow="16">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Söz Varlığı</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.8. Metindeki anlatım bozukluklarını belirler.</Cell>
+      </Row>
+      <Row index="9" excelRow="17">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Söz Varlığı</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.9. Fiilimsilerin cümledeki işlevlerini kavrar.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="10" excelRow="18">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.10. Geçiş ve bağlantı ifadelerinin metnin anlamına olan katkısını değerlendirir.</Cell>
+      </Row>
+      <Row index="11" excelRow="19">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.11. Metindeki anlatım biçimlerini belirler.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="12" excelRow="20">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.12. Görsel ve başlıktan hareketle okuyacağı metnin konusunu tahmin eder.</Cell>
+      </Row>
+      <Row index="13" excelRow="21">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.13. Okuduklarını özetler.</Cell>
+      </Row>
+      <Row index="14" excelRow="22">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.14. Metinle ilgili soruları cevaplar.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="16" excelColumn="P" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="17" excelColumn="Q" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="15" excelRow="23">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.15. Metinle ilgili sorular sorar.</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+      <Row index="16" excelRow="24">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.16. Metnin konusunu belirler.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="17" excelRow="25">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.17. Metnin ana fikrini/ana duygusunu belirler.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="18" excelRow="26">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.18. Metindeki yardımcı fikirleri belirler.</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+      <Row index="19" excelRow="27">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.19. Metnin içeriğine uygun başlık/başlıklar belirler.</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+      <Row index="20" excelRow="28">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.20. Okuduğu metinlerdeki hikâye unsurlarını belirler.</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="21" excelRow="29">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.21. Metnin içeriğini yorumlar.</Cell>
+      </Row>
+      <Row index="22" excelRow="30">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.22. Metinde ele alınan sorunlara farklı çözümler üretir.</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="16" excelColumn="P" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="23" excelRow="31">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.23. Metinler arasında karşılaştırma yapar.</Cell>
+      </Row>
+      <Row index="24" excelRow="32">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.24. Metindeki gerçek ve kurgusal unsurları ayırt eder.</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="25" excelRow="33">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.25. Okudukları ile ilgili çıkarımlarda bulunur.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="16" excelColumn="P" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="17" excelColumn="Q" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="26" excelRow="34">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.26. Metin türlerini ayırt eder.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="16" excelColumn="P" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="17" excelColumn="Q" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="27" excelRow="35">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.27. Görsellerle ilgili soruları cevaplar.</Cell>
+      </Row>
+      <Row index="28" excelRow="36">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.28. Metinde önemli noktaların vurgulanış biçimlerini kavrar.</Cell>
+      </Row>
+      <Row index="29" excelRow="37">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.29. Medya metinlerini analiz eder.</Cell>
+      </Row>
+      <Row index="30" excelRow="38">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.30. Bilgi kaynaklarını etkili bir şekilde kullanır.</Cell>
+      </Row>
+      <Row index="31" excelRow="39">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.31. Bilgi kaynaklarının güvenilirliğini sorgular.</Cell>
+      </Row>
+      <Row index="32" excelRow="40">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.32. Grafik, tablo ve çizelgeyle sunulan bilgileri yorumlar.</Cell>
+      </Row>
+      <Row index="33" excelRow="41">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.33. Edebî eserin yazılı metni ile medya sunumunu karşılaştırır.</Cell>
+      </Row>
+      <Row index="34" excelRow="42">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.34. Okuduklarında kullanılan düşünceyi geliştirme yollarını belirler.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="35" excelRow="43">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">OKUMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Anlama</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.3.35. Metindeki iş ve işlem basamaklarını kavrar.</Cell>
+        <Cell col="16" excelColumn="P" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="36" excelRow="44">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.1. Şiir yazar.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+      </Row>
+      <Row index="37" excelRow="45">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.2. Bilgilendirici metin yazar.</Cell>
+        <Cell col="16" excelColumn="P" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+      </Row>
+      <Row index="38" excelRow="46">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.3. Hikâye edici metin yazar.</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+      </Row>
+      <Row index="39" excelRow="47">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.4. Yazma stratejilerini uygular.</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="40" excelRow="48">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.5. Anlatımı desteklemek için grafik ve tablo kullanır.</Cell>
+      </Row>
+      <Row index="41" excelRow="49">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.6. Bir işi işlem basamaklarına göre yazar.</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="42" excelRow="50">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.7. Yazılarını zenginleştirmek için atasözleri, deyimler ve özdeyişler kullanır.</Cell>
+      </Row>
+      <Row index="43" excelRow="51">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.8. Yazılarında mizahi ögeler kullanır.</Cell>
+      </Row>
+      <Row index="44" excelRow="52">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.9. Yazılarında anlatım biçimlerini kullanır.</Cell>
+        <Cell col="5" excelColumn="E" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+        <Cell col="13" excelColumn="M" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="17" excelColumn="Q" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="45" excelRow="53">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.10. Yazdıklarında yabancı dillerden alınmış, dilimize henüz yerleşmemiş kelimelerin Türkçelerini kullanır.</Cell>
+      </Row>
+      <Row index="46" excelRow="54">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.12. Kısa metinler yazar.</Cell>
+        <Cell col="17" excelColumn="Q" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="47" excelRow="55">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.13. Yazdıklarının içeriğine uygun başlık belirler.</Cell>
+      </Row>
+      <Row index="48" excelRow="56">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.14. Araştırmalarının sonuçlarını yazılı olarak sunar.</Cell>
+      </Row>
+      <Row index="49" excelRow="57">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.15. Yazılarında uygun geçiş ve bağlantı ifadelerini kullanır.</Cell>
+        <Cell col="4" excelColumn="D" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="7" excelColumn="G" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+      </Row>
+      <Row index="50" excelRow="58">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.16. Yazdıklarını düzenler.</Cell>
+      </Row>
+      <Row index="51" excelRow="59">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.17. Yazdıklarını paylaşır.</Cell>
+      </Row>
+      <Row index="52" excelRow="60">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.18. Cümlenin ögelerini ayırt eder.</Cell>
+        <Cell col="6" excelColumn="F" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 3">1</Cell>
+        <Cell col="8" excelColumn="H" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+        <Cell col="9" excelColumn="I" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="10" excelColumn="J" group="1. Dönem 1. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+        <Cell col="11" excelColumn="K" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 1">1</Cell>
+        <Cell col="12" excelColumn="L" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 2">1</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="15" excelColumn="O" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 5">1</Cell>
+      </Row>
+      <Row index="53" excelRow="61">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.19. Cümle türlerini tanır.</Cell>
+        <Cell col="14" excelColumn="N" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 4">1</Cell>
+        <Cell col="16" excelColumn="P" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 6">1</Cell>
+        <Cell col="17" excelColumn="Q" group="1. Dönem 2. Ortak Yazılı Sınav" header="Senaryo 7">1</Cell>
+      </Row>
+      <Row index="54" excelRow="62">
+        <Cell col="1" excelColumn="A" header="Öğrenme Alanı" mergedFromAbove="true">YAZMA</Cell>
+        <Cell col="2" excelColumn="B" header="Alt Öğrenme Alanı" mergedFromAbove="true">Alt Öğrenme Alanı Yok</Cell>
+        <Cell col="3" excelColumn="C" header="Kazanımlar">T.8.4.20. Fiillerin çatı özelliklerinin anlama olan katkısını kavrar.</Cell>
+      </Row>
+    </Rows>
+  </Worksheet>
+</Workbook>
